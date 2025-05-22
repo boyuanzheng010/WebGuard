@@ -1,0 +1,306 @@
+[
+    {
+        "centerCoords": [
+            961.5,
+            511
+        ],
+        "description": "parent_node: [<facebook>]",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 949,
+            "tLy": 498.5,
+            "bRx": 974,
+            "bRy": 523.5
+        },
+        "width": 25,
+        "height": 25,
+        "tagName": "a",
+        "xpath": "/html/body/div[2]/div/div[2]/div/div[2]/div/div/div[1]/section/div/div/div[1]/a",
+        "interactivesIndex": 0
+    },
+    {
+        "centerCoords": [
+            961.5,
+            575
+        ],
+        "description": "parent_node: [<google>]",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 949,
+            "tLy": 562.5,
+            "bRx": 974,
+            "bRy": 587.5
+        },
+        "width": 25,
+        "height": 25,
+        "tagName": "a",
+        "xpath": "/html/body/div[2]/div/div[2]/div/div[2]/div/div/div[1]/section/div/div/div[2]/a",
+        "interactivesIndex": 1
+    },
+    {
+        "centerCoords": [
+            961.5,
+            639
+        ],
+        "description": "parent_node: [<twitter>]",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 949,
+            "tLy": 626.5,
+            "bRx": 974,
+            "bRy": 651.5
+        },
+        "width": 25,
+        "height": 25,
+        "tagName": "a",
+        "xpath": "/html/body/div[2]/div/div[2]/div/div[2]/div/div/div[1]/section/div/div/div[3]/a",
+        "interactivesIndex": 2
+    },
+    {
+        "centerCoords": [
+            961.5,
+            703
+        ],
+        "description": "parent_node: [<apple>]",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 947.75,
+            "tLy": 689.25,
+            "bRx": 975.25,
+            "bRy": 716.75
+        },
+        "width": 27.5,
+        "height": 27.5,
+        "tagName": "a",
+        "xpath": "/html/body/div[2]/div/div[2]/div/div[2]/div/div/div[1]/section/div/div/div[4]/a",
+        "interactivesIndex": 3
+    },
+    {
+        "centerCoords": [
+            1176.3359375,
+            870.5
+        ],
+        "description": "Acuerdo de Membresía Gratuita de AliExpress",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 1037.71875,
+            "tLy": 854,
+            "bRx": 1314.953125,
+            "bRy": 887
+        },
+        "width": 277.234375,
+        "height": 33,
+        "tagName": "a",
+        "xpath": "/html/body/div[2]/div/div[2]/div/div[2]/div/div/div[2]/div[2]/span/a[1]",
+        "interactivesIndex": 4
+    },
+    {
+        "centerCoords": [
+            1169.171875,
+            878.5
+        ],
+        "description": "Políticas de Privacidad",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 1107.0625,
+            "tLy": 870,
+            "bRx": 1231.28125,
+            "bRy": 887
+        },
+        "width": 124.21875,
+        "height": 17,
+        "tagName": "a",
+        "xpath": "/html/body/div[2]/div/div[2]/div/div[2]/div/div/div[2]/div[2]/span/a[2]",
+        "interactivesIndex": 5
+    },
+    {
+        "centerCoords": [
+            356.1640625,
+            970.5
+        ],
+        "description": "Intellectual Property Protection",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 269,
+            "tLy": 962,
+            "bRx": 443.328125,
+            "bRy": 979
+        },
+        "width": 174.328125,
+        "height": 17,
+        "tagName": "a",
+        "xpath": "/html/body/div[4]/div/a[1]",
+        "interactivesIndex": 6
+    },
+    {
+        "centerCoords": [
+            494.953125,
+            970.5
+        ],
+        "description": "Privacy Policy",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 457.4375,
+            "tLy": 962,
+            "bRx": 532.46875,
+            "bRy": 979
+        },
+        "width": 75.03125,
+        "height": 17,
+        "tagName": "a",
+        "xpath": "/html/body/div[4]/div/a[2]",
+        "interactivesIndex": 7
+    },
+    {
+        "centerCoords": [
+            598.9375,
+            970.5
+        ],
+        "description": "Mapa del sitio web",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 546.578125,
+            "tLy": 962,
+            "bRx": 651.296875,
+            "bRy": 979
+        },
+        "width": 104.71875,
+        "height": 17,
+        "tagName": "a",
+        "xpath": "/html/body/div[4]/div/a[3]",
+        "interactivesIndex": 8
+    },
+    {
+        "centerCoords": [
+            762.8125,
+            970.5
+        ],
+        "description": "Term of Use and Legal Information",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 665.40625,
+            "tLy": 962,
+            "bRx": 860.21875,
+            "bRy": 979
+        },
+        "width": 194.8125,
+        "height": 17,
+        "tagName": "a",
+        "xpath": "/html/body/div[4]/div/a[4]",
+        "interactivesIndex": 9
+    },
+    {
+        "centerCoords": [
+            988.375,
+            970.5
+        ],
+        "description": "Información para consumidores de la UE",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 874.328125,
+            "tLy": 962,
+            "bRx": 1102.421875,
+            "bRy": 979
+        },
+        "width": 228.09375,
+        "height": 17,
+        "tagName": "a",
+        "xpath": "/html/body/div[4]/div/a[5]",
+        "interactivesIndex": 10
+    },
+    {
+        "centerCoords": [
+            755.875,
+            979.5
+        ],
+        "description": "User Information Legal Enquiry Guide",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 267,
+            "tLy": 962,
+            "bRx": 1244.75,
+            "bRy": 997
+        },
+        "width": 977.75,
+        "height": 35,
+        "tagName": "a",
+        "xpath": "/html/body/div[4]/div/a[6]",
+        "interactivesIndex": 11
+    },
+    {
+        "centerCoords": [
+            100,
+            832
+        ],
+        "description": "1",
+        "tagHead": "button",
+        "boundingBox": {
+            "tLx": 80,
+            "tLy": 830,
+            "bRx": 120,
+            "bRy": 834
+        },
+        "width": 40,
+        "height": 4,
+        "tagName": "button",
+        "xpath": "/html/body/div[2]/div/div[2]/div/div[1]/div/div[2]/li[1]/button",
+        "interactivesIndex": 12
+    },
+    {
+        "centerCoords": [
+            144,
+            832
+        ],
+        "description": "2",
+        "tagHead": "button",
+        "boundingBox": {
+            "tLx": 124,
+            "tLy": 830,
+            "bRx": 164,
+            "bRy": 834
+        },
+        "width": 40,
+        "height": 4,
+        "tagName": "button",
+        "xpath": "/html/body/div[2]/div/div[2]/div/div[1]/div/div[2]/li[2]/button",
+        "interactivesIndex": 13
+    },
+    {
+        "centerCoords": [
+            188,
+            832
+        ],
+        "description": "3",
+        "tagHead": "button",
+        "boundingBox": {
+            "tLx": 168,
+            "tLy": 830,
+            "bRx": 208,
+            "bRy": 834
+        },
+        "width": 40,
+        "height": 4,
+        "tagName": "button",
+        "xpath": "/html/body/div[2]/div/div[2]/div/div[1]/div/div[2]/li[3]/button",
+        "interactivesIndex": 14
+    },
+    {
+        "centerCoords": [
+            1120.5,
+            286
+        ],
+        "description": "INPUT_VALUE=\"\" parent_node: [<Email o número de teléfono>] label=\"Email o número de teléfono\"",
+        "tagHead": "input type=\"text\"",
+        "boundingBox": {
+            "tLx": 946.5,
+            "tLy": 266,
+            "bRx": 1294.5,
+            "bRy": 306
+        },
+        "width": 348,
+        "height": 40,
+        "tagName": "input",
+        "xpath": "/html/body/div[2]/div/div[2]/div/div[2]/div/div/div[1]/div/div[3]/div[2]/div/span/span[1]/span[1]/input",
+        "interactivesIndex": 15
+    }
+]

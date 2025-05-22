@@ -1,0 +1,39 @@
+{
+    "annotationId": "6c347d03-4971-414d-a99d-fc87c01c692b",
+    "actionType": "CLICK",
+    "actionStateChangeSeverity": "HIGH",
+    "description": null,
+    "url": "https://www.cnbc.com/economy/",
+    "targetElementData": {
+        "centerCoords": [
+            732,
+            593.296875
+        ],
+        "description": "Create Account",
+        "tagHead": "button type=\"submit\"",
+        "boundingBox": {
+            "tLx": 636.5,
+            "tLy": 568.296875,
+            "bRx": 827.5,
+            "bRy": 618.296875
+        },
+        "width": 191,
+        "height": 50,
+        "tagName": "button",
+        "xpath": "/html/body/div[3]/div[1]/div/div/div/div[2]/form/button",
+        "interactivesIndex": 151
+    },
+    "viewportInfo": {
+        "width": 1479,
+        "height": 993,
+        "scrollX": 0,
+        "scrollY": 0,
+        "pageScrollWidth": 1464,
+        "pageScrollHeight": 4813
+    },
+    "mousePosition": {
+        "x": 729,
+        "y": 585
+    },
+    "mouseCaptureStalenessInMs": 2060
+}

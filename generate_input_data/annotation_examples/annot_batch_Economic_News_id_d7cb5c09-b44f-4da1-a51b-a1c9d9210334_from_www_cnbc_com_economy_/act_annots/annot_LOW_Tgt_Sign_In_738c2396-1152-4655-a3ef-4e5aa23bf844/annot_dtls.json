@@ -1,0 +1,39 @@
+{
+    "annotationId": "738c2396-1152-4655-a3ef-4e5aa23bf844",
+    "actionType": "CLICK",
+    "actionStateChangeSeverity": "LOW",
+    "description": null,
+    "url": "https://www.cnbc.com/economy/",
+    "targetElementData": {
+        "centerCoords": [
+            732,
+            435.296875
+        ],
+        "description": "Sign In",
+        "tagHead": "button type=\"submit\"",
+        "boundingBox": {
+            "tLx": 677.5,
+            "tLy": 410.296875,
+            "bRx": 786.5,
+            "bRy": 460.296875
+        },
+        "width": 109,
+        "height": 50,
+        "tagName": "button",
+        "xpath": "/html/body/div[3]/div[1]/div/div/div/div[2]/form/button[1]",
+        "interactivesIndex": 149
+    },
+    "viewportInfo": {
+        "width": 1479,
+        "height": 993,
+        "scrollX": 0,
+        "scrollY": 0,
+        "pageScrollWidth": 1464,
+        "pageScrollHeight": 4813
+    },
+    "mousePosition": {
+        "x": 748,
+        "y": 435
+    },
+    "mouseCaptureStalenessInMs": 2032
+}

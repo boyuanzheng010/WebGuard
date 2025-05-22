@@ -1,0 +1,3308 @@
+[
+    {
+        "centerCoords": [
+            486.234375,
+            -514
+        ],
+        "description": "parent_node: [<Garage Living>]",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 247,
+            "tLy": -639,
+            "bRx": 725.46875,
+            "bRy": -389
+        },
+        "width": 478.46875,
+        "height": 250,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[1]/div/div/div/div[1]/div/iframe/html/body/div[2]/div/div[1]/a",
+        "interactivesIndex": 0
+    },
+    {
+        "centerCoords": [
+            844.4140625,
+            -575.125
+        ],
+        "description": "Garage Living",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 751.46875,
+            "tLy": -594.125,
+            "bRx": 937.359375,
+            "bRy": -556.125
+        },
+        "width": 185.890625,
+        "height": 38,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[1]/div/div/div/div[1]/div/iframe/html/body/div[2]/div/div[1]/div[2]/div[1]/div/div/div[2]/a",
+        "interactivesIndex": 1
+    },
+    {
+        "centerCoords": [
+            968.1015625,
+            -512.390625
+        ],
+        "description": "Join the leading garage remodeling franchise in NorthAmerica.",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 751.46875,
+            "tLy": -534.1875,
+            "bRx": 1184.734375,
+            "bRy": -490.59375
+        },
+        "width": 433.265625,
+        "height": 43.59375,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[1]/div/div/div/div[1]/div/iframe/html/body/div[2]/div/div[1]/div[2]/div[1]/div/div/div[4]/a",
+        "interactivesIndex": 2
+    },
+    {
+        "centerCoords": [
+            855.21875,
+            -418.109375
+        ],
+        "description": "Garage Living Franchising",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 751.46875,
+            "tLy": -429.109375,
+            "bRx": 958.96875,
+            "bRy": -407.109375
+        },
+        "width": 207.5,
+        "height": 22,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[1]/div/div/div/div[1]/div/iframe/html/body/div[2]/div/div[1]/div[2]/div[3]/div[1]/a",
+        "interactivesIndex": 3
+    },
+    {
+        "centerCoords": [
+            1112.9296875,
+            -418.265625
+        ],
+        "description": "Learn More",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 1062.859375,
+            "tLy": -429.765625,
+            "bRx": 1163,
+            "bRy": -406.765625
+        },
+        "width": 100.140625,
+        "height": 23,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[1]/div/div/div/div[1]/div/iframe/html/body/div[2]/div/div[1]/div[2]/div[3]/div[3]/a",
+        "interactivesIndex": 4
+    },
+    {
+        "centerCoords": [
+            1178.5,
+            -417.421875
+        ],
+        "description": "parent_node: [<Garage Living Franchising>]",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 1166,
+            "tLy": -429.921875,
+            "bRx": 1191,
+            "bRy": -404.921875
+        },
+        "width": 25,
+        "height": 25,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[1]/div/div/div/div[1]/div/iframe/html/body/div[2]/div/div[1]/div[2]/div[3]/a[2]",
+        "interactivesIndex": 5
+    },
+    {
+        "centerCoords": [
+            1643.1875,
+            -837.40625
+        ],
+        "description": "Stop seeing this ad",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 1575.25,
+            "tLy": -851.40625,
+            "bRx": 1711.125,
+            "bRy": -823.40625
+        },
+        "width": 135.875,
+        "height": 28,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[1]/div/div/div/div[1]/div/iframe/html/body/div[3]/form/div[1]/amp-fit-text/div[1]/div/div[3]/label[1]/a",
+        "interactivesIndex": 6
+    },
+    {
+        "centerCoords": [
+            1770.9296875,
+            -837.40625
+        ],
+        "description": "Why this ad?",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 1713.125,
+            "tLy": -851.40625,
+            "bRx": 1828.734375,
+            "bRy": -823.40625
+        },
+        "width": 115.609375,
+        "height": 28,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[1]/div/div/div/div[1]/div/iframe/html/body/div[3]/form/div[1]/amp-fit-text/div[1]/div/div[3]/label[2]/a",
+        "interactivesIndex": 7
+    },
+    {
+        "centerCoords": [
+            1107,
+            347.625
+        ],
+        "description": "parent_node: [<CLIMAPROYECTOS>]",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 1089,
+            "tLy": 329.625,
+            "bRx": 1125,
+            "bRy": 365.625
+        },
+        "width": 36,
+        "height": 36,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[3]/div[2]/div/div[2]/div/div/div/div/iframe/html/body/div[2]/div/div/div[1]/div[1]/a",
+        "interactivesIndex": 8
+    },
+    {
+        "centerCoords": [
+            1196.65625,
+            340.75
+        ],
+        "description": "Climaproyectos",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 1141,
+            "tLy": 332.75,
+            "bRx": 1252.3125,
+            "bRy": 348.75
+        },
+        "width": 111.3125,
+        "height": 16,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[3]/div[2]/div/div[2]/div/div/div/div/iframe/html/body/div[2]/div/div/div[1]/div[1]/div[2]/a",
+        "interactivesIndex": 9
+    },
+    {
+        "centerCoords": [
+            1214.4453125,
+            450.625
+        ],
+        "description": "CotizarMinisplitMidea Forest",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 1089,
+            "tLy": 371.125,
+            "bRx": 1339.890625,
+            "bRy": 530.125
+        },
+        "width": 250.890625,
+        "height": 159,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[3]/div[2]/div/div[2]/div/div/div/div/iframe/html/body/div[2]/div/div/div[1]/div[2]/a",
+        "interactivesIndex": 10
+    },
+    {
+        "centerCoords": [
+            1219.265625,
+            608.53125
+        ],
+        "description": "Distribuidores de Paquetes de AC. Cotiza con nosotros el equipo aplicado que requieres.",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 1089,
+            "tLy": 551.625,
+            "bRx": 1349.53125,
+            "bRy": 665.4375
+        },
+        "width": 260.53125,
+        "height": 113.8125,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[3]/div[2]/div/div[2]/div/div/div/div/iframe/html/body/div[2]/div/div/div[1]/div[5]/a",
+        "interactivesIndex": 11
+    },
+    {
+        "centerCoords": [
+            1227,
+            832.8203125
+        ],
+        "description": "description_unavailable",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 1077,
+            "tLy": 754.015625,
+            "bRx": 1377,
+            "bRy": 911.625
+        },
+        "width": 300,
+        "height": 157.609375,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[3]/div[2]/div/div[2]/div/div/div/div/iframe/html/body/div[2]/div/div/div[2]/a",
+        "interactivesIndex": 12
+    },
+    {
+        "centerCoords": [
+            1227,
+            891
+        ],
+        "description": "Abrir",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 1077,
+            "tLy": 870.375,
+            "bRx": 1377,
+            "bRy": 911.625
+        },
+        "width": 300,
+        "height": 41.25,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[3]/div[2]/div/div[2]/div/div/div/div/iframe/html/body/div[2]/div/div/div[3]/a",
+        "interactivesIndex": 13
+    },
+    {
+        "centerCoords": [
+            1227,
+            1972.28125
+        ],
+        "description": "parent_node: [<Ads by>]",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 1077,
+            "tLy": 1963.78125,
+            "bRx": 1377,
+            "bRy": 1980.78125
+        },
+        "width": 300,
+        "height": 17,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[6]/div[2]/div/div/div/div/div/div/iframe/html/body/div[1]/div/a",
+        "interactivesIndex": 14
+    },
+    {
+        "centerCoords": [
+            1425,
+            1386.28125
+        ],
+        "description": "description_unavailable",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 1377,
+            "tLy": 1378.78125,
+            "bRx": 1473,
+            "bRy": 1393.78125
+        },
+        "width": 96,
+        "height": 15,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[6]/div[2]/div/div/div/div/div/div/iframe/html/body/div[1]/div/div/div/div[1]/a",
+        "interactivesIndex": 15
+    },
+    {
+        "centerCoords": [
+            1352.5,
+            1386.28125
+        ],
+        "description": "description_unavailable",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 1345,
+            "tLy": 1378.78125,
+            "bRx": 1360,
+            "bRy": 1393.78125
+        },
+        "width": 15,
+        "height": 15,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[6]/div[2]/div/div/div/div/div/div/iframe/html/body/div[1]/div/div/div/div[2]/a",
+        "interactivesIndex": 16
+    },
+    {
+        "centerCoords": [
+            1527,
+            829.375
+        ],
+        "description": "Stop seeing this ad",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 1407,
+            "tLy": 815.375,
+            "bRx": 1647,
+            "bRy": 843.375
+        },
+        "width": 240,
+        "height": 28,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[6]/div[2]/div/div/div/div/div/div/iframe/html/body/div[1]/div/div/form/div[1]/amp-fit-text/div[1]/div/div[3]/label[1]/a",
+        "interactivesIndex": 17
+    },
+    {
+        "centerCoords": [
+            1527,
+            862.96875
+        ],
+        "description": "Why this ad?",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 1407,
+            "tLy": 848.96875,
+            "bRx": 1647,
+            "bRy": 876.96875
+        },
+        "width": 240,
+        "height": 28,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[6]/div[2]/div/div/div/div/div/div/iframe/html/body/div[1]/div/div/form/div[1]/amp-fit-text/div[1]/div/div[3]/label[2]/a",
+        "interactivesIndex": 18
+    },
+    {
+        "centerCoords": [
+            769.1875,
+            20
+        ],
+        "description": "Stock futures rise after Thursday’s big sell-off; key jobs report looms",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 189.1875,
+            "tLy": 0,
+            "bRx": 1349.1875,
+            "bRy": 40
+        },
+        "width": 1160,
+        "height": 40,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/header/div[1]/div/div/a",
+        "interactivesIndex": 19
+    },
+    {
+        "centerCoords": [
+            148.5,
+            53
+        ],
+        "description": "parent_node: [<MARKETS>]",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 118,
+            "tLy": 37.5,
+            "bRx": 179,
+            "bRy": 68.5
+        },
+        "width": 61,
+        "height": 31,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/header/div[3]/div/div/div[2]/div[1]/a",
+        "interactivesIndex": 20
+    },
+    {
+        "centerCoords": [
+            223.0234375,
+            63
+        ],
+        "description": "Markets",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 179,
+            "tLy": 45.5,
+            "bRx": 267.046875,
+            "bRy": 80.5
+        },
+        "width": 88.046875,
+        "height": 35,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/header/div[3]/div/div/div[2]/div[1]/div[1]/div/div/div[1]/a",
+        "interactivesIndex": 21
+    },
+    {
+        "centerCoords": [
+            312.46875,
+            63
+        ],
+        "description": "Business",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 267.046875,
+            "tLy": 45.5,
+            "bRx": 357.890625,
+            "bRy": 80.5
+        },
+        "width": 90.84375,
+        "height": 35,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/header/div[3]/div/div/div[2]/div[1]/div[1]/div/div/div[2]/a",
+        "interactivesIndex": 22
+    },
+    {
+        "centerCoords": [
+            406.046875,
+            63
+        ],
+        "description": "Investing",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 357.890625,
+            "tLy": 45.5,
+            "bRx": 454.203125,
+            "bRy": 80.5
+        },
+        "width": 96.3125,
+        "height": 35,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/header/div[3]/div/div/div[2]/div[1]/div[1]/div/div/div[3]/a",
+        "interactivesIndex": 23
+    },
+    {
+        "centerCoords": [
+            484.28125,
+            63
+        ],
+        "description": "Tech",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 454.203125,
+            "tLy": 45.5,
+            "bRx": 514.359375,
+            "bRy": 80.5
+        },
+        "width": 60.15625,
+        "height": 35,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/header/div[3]/div/div/div[2]/div[1]/div[1]/div/div/div[4]/a",
+        "interactivesIndex": 24
+    },
+    {
+        "centerCoords": [
+            556.6484375,
+            63
+        ],
+        "description": "Politics",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 514.359375,
+            "tLy": 45.5,
+            "bRx": 598.9375,
+            "bRy": 80.5
+        },
+        "width": 84.578125,
+        "height": 35,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/header/div[3]/div/div/div[2]/div[1]/div[1]/div/div/div[5]/a",
+        "interactivesIndex": 25
+    },
+    {
+        "centerCoords": [
+            632.1015625,
+            63
+        ],
+        "description": "Video",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 598.9375,
+            "tLy": 45.5,
+            "bRx": 665.265625,
+            "bRy": 80.5
+        },
+        "width": 66.328125,
+        "height": 35,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/header/div[3]/div/div/div[2]/div[1]/div[1]/div/div/div[6]/a",
+        "interactivesIndex": 26
+    },
+    {
+        "centerCoords": [
+            733.2421875,
+            63
+        ],
+        "description": "Investing Club",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 665.265625,
+            "tLy": 45.5,
+            "bRx": 801.21875,
+            "bRy": 80.5
+        },
+        "width": 135.953125,
+        "height": 35,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/header/div[3]/div/div/div[2]/div[1]/div[1]/div/div/div[8]/a",
+        "interactivesIndex": 27
+    },
+    {
+        "centerCoords": [
+            844.4375,
+            63
+        ],
+        "description": "PRO",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 818.21875,
+            "tLy": 45.5,
+            "bRx": 870.65625,
+            "bRy": 80.5
+        },
+        "width": 52.4375,
+        "height": 35,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/header/div[3]/div/div/div[2]/div[1]/div[1]/div/div/div[9]/a",
+        "interactivesIndex": 28
+    },
+    {
+        "centerCoords": [
+            912.65625,
+            58.5
+        ],
+        "description": "Livestream",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 912.65625,
+            "tLy": 58.5,
+            "bRx": 912.65625,
+            "bRy": 58.5
+        },
+        "width": 0,
+        "height": 0,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/header/div[3]/div/div/div[2]/div[1]/div[1]/div/div/div[10]/div/div[2]/div/a",
+        "interactivesIndex": 29
+    },
+    {
+        "centerCoords": [
+            731.9921875,
+            -350.5
+        ],
+        "description": "Markets",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 695.421875,
+            "tLy": -361,
+            "bRx": 768.5625,
+            "bRy": -340
+        },
+        "width": 73.140625,
+        "height": 21,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[2]/div/header/div/div[1]/a",
+        "interactivesIndex": 30
+    },
+    {
+        "centerCoords": [
+            609.2890625,
+            -256.5
+        ],
+        "description": "World Economy",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 541.265625,
+            "tLy": -267,
+            "bRx": 677.3125,
+            "bRy": -246
+        },
+        "width": 136.046875,
+        "height": 21,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[2]/div/header/nav/ul/li[1]/a",
+        "interactivesIndex": 31
+    },
+    {
+        "centerCoords": [
+            732.6640625,
+            -256.5
+        ],
+        "description": "The Fed",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 701.21875,
+            "tLy": -267,
+            "bRx": 764.109375,
+            "bRy": -246
+        },
+        "width": 62.890625,
+        "height": 21,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[2]/div/header/nav/ul/li[2]/a",
+        "interactivesIndex": 32
+    },
+    {
+        "centerCoords": [
+            850.375,
+            -256.5
+        ],
+        "description": "Central Banks",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 788.015625,
+            "tLy": -267,
+            "bRx": 912.734375,
+            "bRy": -246
+        },
+        "width": 124.71875,
+        "height": 21,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[2]/div/header/nav/ul/li[3]/a",
+        "interactivesIndex": 33
+    },
+    {
+        "centerCoords": [
+            397,
+            -60
+        ],
+        "description": "description_unavailable",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 87,
+            "tLy": -215,
+            "bRx": 707,
+            "bRy": 95
+        },
+        "width": 620,
+        "height": 310,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[3]/div[1]/div[1]/section/div/div[1]/div[1]/div/div[1]/a",
+        "interactivesIndex": 34
+    },
+    {
+        "centerCoords": [
+            394.96875,
+            146
+        ],
+        "description": "The pivotal February jobs report is out Friday. Here’s what to expect",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 87,
+            "tLy": 106,
+            "bRx": 702.9375,
+            "bRy": 186
+        },
+        "width": 615.9375,
+        "height": 80,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[3]/div[1]/div[1]/section/div/div[1]/div[1]/div/div[2]/div/div[1]/div/div/a",
+        "interactivesIndex": 35
+    },
+    {
+        "centerCoords": [
+            109.40625,
+            204
+        ],
+        "description": "Jeff Cox",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 87,
+            "tLy": 198,
+            "bRx": 131.8125,
+            "bRy": 210
+        },
+        "width": 44.8125,
+        "height": 12,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[3]/div[1]/div[1]/section/div/div[1]/div[1]/div/div[2]/div/div[2]/span[1]/a",
+        "interactivesIndex": 36
+    },
+    {
+        "centerCoords": [
+            891.9921875,
+            -60
+        ],
+        "description": "description_unavailable",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 737,
+            "tLy": -215,
+            "bRx": 1046.984375,
+            "bRy": 95
+        },
+        "width": 309.984375,
+        "height": 310,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[3]/div[1]/div[1]/section/div/div[1]/div[2]/div/div[1]/a",
+        "interactivesIndex": 37
+    },
+    {
+        "centerCoords": [
+            885.0546875,
+            167.5
+        ],
+        "description": "Treasury secretary says the American dream is not about ‘access to cheap goods’",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 737,
+            "tLy": 108,
+            "bRx": 1033.109375,
+            "bRy": 227
+        },
+        "width": 296.109375,
+        "height": 119,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[3]/div[1]/div[1]/section/div/div[1]/div[2]/div/div[2]/div/div[1]/div/div/a",
+        "interactivesIndex": 38
+    },
+    {
+        "centerCoords": [
+            759.40625,
+            218
+        ],
+        "description": "Jeff Cox",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 737,
+            "tLy": 212,
+            "bRx": 781.8125,
+            "bRy": 224
+        },
+        "width": 44.8125,
+        "height": 12,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[3]/div[1]/div[1]/section/div/div[1]/div[2]/div/div[2]/div/div[2]/span[1]/a",
+        "interactivesIndex": 39
+    },
+    {
+        "centerCoords": [
+            236.9921875,
+            381
+        ],
+        "description": "description_unavailable",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 87,
+            "tLy": 306,
+            "bRx": 386.984375,
+            "bRy": 456
+        },
+        "width": 299.984375,
+        "height": 150,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[3]/div[1]/div[1]/section/div/div[2]/div[1]/div/div[1]/a",
+        "interactivesIndex": 40
+    },
+    {
+        "centerCoords": [
+            235.71875,
+            484
+        ],
+        "description": "European Central Bank cuts rates by another quarter point",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 87,
+            "tLy": 459,
+            "bRx": 384.4375,
+            "bRy": 509
+        },
+        "width": 297.4375,
+        "height": 50,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[3]/div[1]/div[1]/section/div/div[2]/div[1]/div/div[2]/div/div[1]/div/div/a",
+        "interactivesIndex": 41
+    },
+    {
+        "centerCoords": [
+            131.9921875,
+            530
+        ],
+        "description": "Sophie Kiderlin",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 87,
+            "tLy": 524,
+            "bRx": 176.984375,
+            "bRy": 536
+        },
+        "width": 89.984375,
+        "height": 12,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[3]/div[1]/div[1]/section/div/div[2]/div[1]/div/div[2]/div/div[2]/span[1]/a",
+        "interactivesIndex": 42
+    },
+    {
+        "centerCoords": [
+            566.9765625,
+            381
+        ],
+        "description": "description_unavailable",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 416.984375,
+            "tLy": 306,
+            "bRx": 716.96875,
+            "bRy": 456
+        },
+        "width": 299.984375,
+        "height": 150,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[3]/div[1]/div[1]/section/div/div[2]/div[2]/div/div[1]/a",
+        "interactivesIndex": 43
+    },
+    {
+        "centerCoords": [
+            566.421875,
+            496
+        ],
+        "description": "Layoff announcements soar to the highest since 2020 as DOGE slashes federal staff",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 416.984375,
+            "tLy": 459,
+            "bRx": 715.859375,
+            "bRy": 533
+        },
+        "width": 298.875,
+        "height": 74,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[3]/div[1]/div[1]/section/div/div[2]/div[2]/div/div[2]/div/div[1]/div/div/a",
+        "interactivesIndex": 44
+    },
+    {
+        "centerCoords": [
+            439.390625,
+            554
+        ],
+        "description": "Jeff Cox",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 416.984375,
+            "tLy": 548,
+            "bRx": 461.796875,
+            "bRy": 560
+        },
+        "width": 44.8125,
+        "height": 12,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[3]/div[1]/div[1]/section/div/div[2]/div[2]/div/div[2]/div/div[2]/span[1]/a",
+        "interactivesIndex": 45
+    },
+    {
+        "centerCoords": [
+            896.9609375,
+            381
+        ],
+        "description": "description_unavailable",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 746.96875,
+            "tLy": 306,
+            "bRx": 1046.953125,
+            "bRy": 456
+        },
+        "width": 299.984375,
+        "height": 150,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[3]/div[1]/div[1]/section/div/div[2]/div[3]/div/div[1]/a",
+        "interactivesIndex": 46
+    },
+    {
+        "centerCoords": [
+            895.7734375,
+            496
+        ],
+        "description": "Private employers added just 77,000 jobs in February, far below expectations",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 746.96875,
+            "tLy": 459,
+            "bRx": 1044.578125,
+            "bRy": 533
+        },
+        "width": 297.609375,
+        "height": 74,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[3]/div[1]/div[1]/section/div/div[2]/div[3]/div/div[2]/div/div[1]/div/div/a",
+        "interactivesIndex": 47
+    },
+    {
+        "centerCoords": [
+            769.375,
+            554
+        ],
+        "description": "Jeff Cox",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 746.96875,
+            "tLy": 548,
+            "bRx": 791.78125,
+            "bRy": 560
+        },
+        "width": 44.8125,
+        "height": 12,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[3]/div[1]/div[1]/section/div/div[2]/div[3]/div/div[2]/div/div[2]/span[1]/a",
+        "interactivesIndex": 48
+    },
+    {
+        "centerCoords": [
+            237,
+            685.5
+        ],
+        "description": "description_unavailable",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 87,
+            "tLy": 601,
+            "bRx": 387,
+            "bRy": 770
+        },
+        "width": 300,
+        "height": 169,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[3]/div[1]/div[3]/div/div/div[1]/div[1]/a",
+        "interactivesIndex": 49
+    },
+    {
+        "centerCoords": [
+            237,
+            791
+        ],
+        "description": "Economy",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 87,
+            "tLy": 785,
+            "bRx": 387,
+            "bRy": 797
+        },
+        "width": 300,
+        "height": 12,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[3]/div[1]/div[3]/div/div/div[1]/div[2]/div/div[1]/div[1]/a",
+        "interactivesIndex": 50
+    },
+    {
+        "centerCoords": [
+            226.53125,
+            835.59375
+        ],
+        "description": "Germany’s fiscal U-turn could be a ‘game changer’ for the country’s sluggish economy, analysts say",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 87,
+            "tLy": 800,
+            "bRx": 366.0625,
+            "bRy": 871.1875
+        },
+        "width": 279.0625,
+        "height": 71.1875,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[3]/div[1]/div[3]/div/div/div[1]/div[2]/div/div[1]/div[2]/div/a",
+        "interactivesIndex": 51
+    },
+    {
+        "centerCoords": [
+            567,
+            685.5
+        ],
+        "description": "description_unavailable",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 417,
+            "tLy": 601,
+            "bRx": 717,
+            "bRy": 770
+        },
+        "width": 300,
+        "height": 169,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[3]/div[1]/div[3]/div/div/div[2]/div[1]/a",
+        "interactivesIndex": 52
+    },
+    {
+        "centerCoords": [
+            567,
+            791
+        ],
+        "description": "Economy",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 417,
+            "tLy": 785,
+            "bRx": 717,
+            "bRy": 797
+        },
+        "width": 300,
+        "height": 12,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[3]/div[1]/div[3]/div/div/div[2]/div[2]/div/div[1]/div[1]/a",
+        "interactivesIndex": 53
+    },
+    {
+        "centerCoords": [
+            565.515625,
+            824.296875
+        ],
+        "description": "European Central Bank to make ‘last easy rate cut’ amid tariff uncertainty",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 417,
+            "tLy": 800,
+            "bRx": 714.03125,
+            "bRy": 848.59375
+        },
+        "width": 297.03125,
+        "height": 48.59375,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[3]/div[1]/div[3]/div/div/div[2]/div[2]/div/div[1]/div[2]/div/a",
+        "interactivesIndex": 54
+    },
+    {
+        "centerCoords": [
+            237,
+            926.78125
+        ],
+        "description": "Economy",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 87,
+            "tLy": 920.78125,
+            "bRx": 387,
+            "bRy": 932.78125
+        },
+        "width": 300,
+        "height": 12,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[3]/div[1]/div[3]/div/div/div[4]/div/div/div[1]/div[1]/a",
+        "interactivesIndex": 55
+    },
+    {
+        "centerCoords": [
+            235.390625,
+            970.78125
+        ],
+        "description": "Execs willing to pass on higher costs from tariffs to customers, economist says",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 87,
+            "tLy": 935.78125,
+            "bRx": 383.78125,
+            "bRy": 1005.78125
+        },
+        "width": 296.78125,
+        "height": 70,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[3]/div[1]/div[3]/div/div/div[4]/div/div/div[1]/div[2]/div/a",
+        "interactivesIndex": 56
+    },
+    {
+        "centerCoords": [
+            567,
+            926.78125
+        ],
+        "description": "Economy",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 417,
+            "tLy": 920.78125,
+            "bRx": 717,
+            "bRy": 932.78125
+        },
+        "width": 300,
+        "height": 12,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[3]/div[1]/div[3]/div/div/div[5]/div/div/div[1]/div[1]/a",
+        "interactivesIndex": 57
+    },
+    {
+        "centerCoords": [
+            547.609375,
+            970.78125
+        ],
+        "description": "Stagflation fears bubble up as Trump tariffs take effect and the economy slows",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 417,
+            "tLy": 935.78125,
+            "bRx": 678.21875,
+            "bRy": 1005.78125
+        },
+        "width": 261.21875,
+        "height": 70,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[3]/div[1]/div[3]/div/div/div[5]/div/div/div[1]/div[2]/div/a",
+        "interactivesIndex": 58
+    },
+    {
+        "centerCoords": [
+            897,
+            926.78125
+        ],
+        "description": "Economy",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 747,
+            "tLy": 920.78125,
+            "bRx": 1047,
+            "bRy": 932.78125
+        },
+        "width": 300,
+        "height": 12,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[3]/div[1]/div[3]/div/div/div[6]/div/div/div[1]/div[1]/a",
+        "interactivesIndex": 59
+    },
+    {
+        "centerCoords": [
+            890.046875,
+            970.78125
+        ],
+        "description": "Euro zone inflation dips to 2.4% in February as ECB bets point to sixth rate cut",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 747,
+            "tLy": 935.78125,
+            "bRx": 1033.09375,
+            "bRy": 1005.78125
+        },
+        "width": 286.09375,
+        "height": 70,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[3]/div[1]/div[3]/div/div/div[6]/div/div/div[1]/div[2]/div/a",
+        "interactivesIndex": 60
+    },
+    {
+        "centerCoords": [
+            1227,
+            153.5
+        ],
+        "description": "WATCH LIVESTREAM",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 1091,
+            "tLy": 128,
+            "bRx": 1363,
+            "bRy": 179
+        },
+        "width": 272,
+        "height": 51,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[3]/div[2]/div/div[1]/div/a[1]",
+        "interactivesIndex": 61
+    },
+    {
+        "centerCoords": [
+            1135,
+            198.3125
+        ],
+        "description": "Prefer to Listen?",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 1091,
+            "tLy": 191,
+            "bRx": 1179,
+            "bRy": 205.625
+        },
+        "width": 88,
+        "height": 14.625,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[3]/div[2]/div/div[1]/div/a[2]",
+        "interactivesIndex": 62
+    },
+    {
+        "centerCoords": [
+            200.1796875,
+            1253.28125
+        ],
+        "description": "Trump tariffs live updates: U.S. pauses tariffs on some Canadian, Mexican imports until April 2",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 108,
+            "tLy": 1216.78125,
+            "bRx": 292.359375,
+            "bRy": 1289.78125
+        },
+        "width": 184.359375,
+        "height": 73,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[5]/div/div/div/div/ul/li[1]/div[2]/a",
+        "interactivesIndex": 63
+    },
+    {
+        "centerCoords": [
+            465.421875,
+            1262.28125
+        ],
+        "description": "Dow tumbles 400 points, Nasdaq enters correction as trade policy fatigue ignites sell-off: Live updates",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 375.265625,
+            "tLy": 1216.78125,
+            "bRx": 555.578125,
+            "bRy": 1307.78125
+        },
+        "width": 180.3125,
+        "height": 91,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[5]/div/div/div/div/ul/li[2]/div[2]/a",
+        "interactivesIndex": 64
+    },
+    {
+        "centerCoords": [
+            733.59375,
+            1253.28125
+        ],
+        "description": "Trump says he’s not even looking at stock market, tariffs will make U.S. ‘very strong’",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 642.53125,
+            "tLy": 1216.78125,
+            "bRx": 824.65625,
+            "bRy": 1289.78125
+        },
+        "width": 182.125,
+        "height": 73,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[5]/div/div/div/div/ul/li[3]/div[2]/a",
+        "interactivesIndex": 65
+    },
+    {
+        "centerCoords": [
+            991.765625,
+            1262.28125
+        ],
+        "description": "Treasury Secretary Bessent says the American dream is not about ‘access to cheap goods’",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 909.796875,
+            "tLy": 1216.78125,
+            "bRx": 1073.734375,
+            "bRy": 1307.78125
+        },
+        "width": 163.9375,
+        "height": 91,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[5]/div/div/div/div/ul/li[4]/div[2]/a",
+        "interactivesIndex": 66
+    },
+    {
+        "centerCoords": [
+            1276.9296875,
+            1244.28125
+        ],
+        "description": "Walgreens to go private in roughly $10 billion deal with Sycamore Partners",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 1177.0625,
+            "tLy": 1216.78125,
+            "bRx": 1376.796875,
+            "bRy": 1271.78125
+        },
+        "width": 199.734375,
+        "height": 55,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[5]/div/div/div/div/ul/li[5]/div[2]/a",
+        "interactivesIndex": 67
+    },
+    {
+        "centerCoords": [
+            237,
+            1550.28125
+        ],
+        "description": "description_unavailable",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 87,
+            "tLy": 1465.78125,
+            "bRx": 387,
+            "bRy": 1634.78125
+        },
+        "width": 300,
+        "height": 169,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[6]/div[1]/div[1]/div[2]/div/div[1]/div[1]/a",
+        "interactivesIndex": 68
+    },
+    {
+        "centerCoords": [
+            237,
+            1655.78125
+        ],
+        "description": "Economy",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 87,
+            "tLy": 1649.78125,
+            "bRx": 387,
+            "bRy": 1661.78125
+        },
+        "width": 300,
+        "height": 12,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[6]/div[1]/div[1]/div[2]/div/div[1]/div[2]/div/div[1]/div[1]/a",
+        "interactivesIndex": 69
+    },
+    {
+        "centerCoords": [
+            225.8203125,
+            1700.375
+        ],
+        "description": "The first quarter is on track for negative GDP growth, Atlanta Fed indicator says",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 87,
+            "tLy": 1664.78125,
+            "bRx": 364.640625,
+            "bRy": 1735.96875
+        },
+        "width": 277.640625,
+        "height": 71.1875,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[6]/div[1]/div[1]/div[2]/div/div[1]/div[2]/div/div[1]/div[2]/div/a",
+        "interactivesIndex": 70
+    },
+    {
+        "centerCoords": [
+            567,
+            1550.28125
+        ],
+        "description": "description_unavailable",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 417,
+            "tLy": 1465.78125,
+            "bRx": 717,
+            "bRy": 1634.78125
+        },
+        "width": 300,
+        "height": 169,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[6]/div[1]/div[1]/div[2]/div/div[2]/div[1]/a",
+        "interactivesIndex": 71
+    },
+    {
+        "centerCoords": [
+            567,
+            1655.78125
+        ],
+        "description": "Economy",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 417,
+            "tLy": 1649.78125,
+            "bRx": 717,
+            "bRy": 1661.78125
+        },
+        "width": 300,
+        "height": 12,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[6]/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[1]/div[1]/a",
+        "interactivesIndex": 72
+    },
+    {
+        "centerCoords": [
+            565.421875,
+            1689.078125
+        ],
+        "description": "Fed’s favorite core inflation measure hits 2.6% in January, as expected",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 417,
+            "tLy": 1664.78125,
+            "bRx": 713.84375,
+            "bRy": 1713.375
+        },
+        "width": 296.84375,
+        "height": 48.59375,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[6]/div[1]/div[1]/div[2]/div/div[2]/div[2]/div/div[1]/div[2]/div/a",
+        "interactivesIndex": 73
+    },
+    {
+        "centerCoords": [
+            897,
+            1550.28125
+        ],
+        "description": "description_unavailable",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 747,
+            "tLy": 1465.78125,
+            "bRx": 1047,
+            "bRy": 1634.78125
+        },
+        "width": 300,
+        "height": 169,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[6]/div[1]/div[1]/div[2]/div/div[3]/div[1]/a",
+        "interactivesIndex": 74
+    },
+    {
+        "centerCoords": [
+            897,
+            1655.78125
+        ],
+        "description": "Economy",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 747,
+            "tLy": 1649.78125,
+            "bRx": 1047,
+            "bRy": 1661.78125
+        },
+        "width": 300,
+        "height": 12,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[6]/div[1]/div[1]/div[2]/div/div[3]/div[2]/div/div[1]/div[1]/a",
+        "interactivesIndex": 75
+    },
+    {
+        "centerCoords": [
+            896.7109375,
+            1700.375
+        ],
+        "description": "German inflation stays unchanged at hotter-than-expected 2.8% in February",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 747,
+            "tLy": 1664.78125,
+            "bRx": 1046.421875,
+            "bRy": 1735.96875
+        },
+        "width": 299.421875,
+        "height": 71.1875,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[6]/div[1]/div[1]/div[2]/div/div[3]/div[2]/div/div[1]/div[2]/div/a",
+        "interactivesIndex": 76
+    },
+    {
+        "centerCoords": [
+            237,
+            1791.5625
+        ],
+        "description": "Economy",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 87,
+            "tLy": 1785.5625,
+            "bRx": 387,
+            "bRy": 1797.5625
+        },
+        "width": 300,
+        "height": 12,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[6]/div[1]/div[1]/div[2]/div/div[4]/div/div/div[1]/div[1]/a",
+        "interactivesIndex": 77
+    },
+    {
+        "centerCoords": [
+            227.9375,
+            1835.5625
+        ],
+        "description": "Federal job cuts disrupt retirement goals for workers, including Black Americans",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 87,
+            "tLy": 1800.5625,
+            "bRx": 368.875,
+            "bRy": 1870.5625
+        },
+        "width": 281.875,
+        "height": 70,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[6]/div[1]/div[1]/div[2]/div/div[4]/div/div/div[1]/div[2]/div/a",
+        "interactivesIndex": 78
+    },
+    {
+        "centerCoords": [
+            567,
+            1791.5625
+        ],
+        "description": "Economy",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 417,
+            "tLy": 1785.5625,
+            "bRx": 717,
+            "bRy": 1797.5625
+        },
+        "width": 300,
+        "height": 12,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[6]/div[1]/div[1]/div[2]/div/div[5]/div/div/div[1]/div[1]/a",
+        "interactivesIndex": 79
+    },
+    {
+        "centerCoords": [
+            554.0625,
+            1835.5625
+        ],
+        "description": "The Fed’s favorite recession indicator is flashing a danger sign again",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 417,
+            "tLy": 1800.5625,
+            "bRx": 691.125,
+            "bRy": 1870.5625
+        },
+        "width": 274.125,
+        "height": 70,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[6]/div[1]/div[1]/div[2]/div/div[5]/div/div/div[1]/div[2]/div/a",
+        "interactivesIndex": 80
+    },
+    {
+        "centerCoords": [
+            897,
+            1791.5625
+        ],
+        "description": "Economy",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 747,
+            "tLy": 1785.5625,
+            "bRx": 1047,
+            "bRy": 1797.5625
+        },
+        "width": 300,
+        "height": 12,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[6]/div[1]/div[1]/div[2]/div/div[6]/div/div/div[1]/div[1]/a",
+        "interactivesIndex": 81
+    },
+    {
+        "centerCoords": [
+            895.5546875,
+            1846.5625
+        ],
+        "description": "Germany’s election will usher in new leadership — but might not turn tides for the country’s struggling economy",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 747,
+            "tLy": 1800.5625,
+            "bRx": 1044.109375,
+            "bRy": 1892.5625
+        },
+        "width": 297.109375,
+        "height": 92,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[6]/div[1]/div[1]/div[2]/div/div[6]/div/div/div[1]/div[2]/div/a",
+        "interactivesIndex": 82
+    },
+    {
+        "centerCoords": [
+            237,
+            2028.0625
+        ],
+        "description": "description_unavailable",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 87,
+            "tLy": 1943.5625,
+            "bRx": 387,
+            "bRy": 2112.5625
+        },
+        "width": 300,
+        "height": 169,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[6]/div[1]/div[2]/div/div/div[1]/div[1]/a",
+        "interactivesIndex": 83
+    },
+    {
+        "centerCoords": [
+            237,
+            2133.5625
+        ],
+        "description": "Economy",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 87,
+            "tLy": 2127.5625,
+            "bRx": 387,
+            "bRy": 2139.5625
+        },
+        "width": 300,
+        "height": 12,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[6]/div[1]/div[2]/div/div/div[1]/div[2]/div/div[1]/div[1]/a",
+        "interactivesIndex": 84
+    },
+    {
+        "centerCoords": [
+            231.6796875,
+            2166.859375
+        ],
+        "description": "Trump says he’s weighing giving 20% of DOGE savings to Americans",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 87,
+            "tLy": 2142.5625,
+            "bRx": 376.359375,
+            "bRy": 2191.15625
+        },
+        "width": 289.359375,
+        "height": 48.59375,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[6]/div[1]/div[2]/div/div/div[1]/div[2]/div/div[1]/div[2]/div/a",
+        "interactivesIndex": 85
+    },
+    {
+        "centerCoords": [
+            567,
+            2028.0625
+        ],
+        "description": "description_unavailable",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 417,
+            "tLy": 1943.5625,
+            "bRx": 717,
+            "bRy": 2112.5625
+        },
+        "width": 300,
+        "height": 169,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[6]/div[1]/div[2]/div/div/div[2]/div[1]/a",
+        "interactivesIndex": 86
+    },
+    {
+        "centerCoords": [
+            567,
+            2133.5625
+        ],
+        "description": "Economy",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 417,
+            "tLy": 2127.5625,
+            "bRx": 717,
+            "bRy": 2139.5625
+        },
+        "width": 300,
+        "height": 12,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[6]/div[1]/div[2]/div/div/div[2]/div[2]/div/div[1]/div[1]/a",
+        "interactivesIndex": 87
+    },
+    {
+        "centerCoords": [
+            560.0859375,
+            2166.859375
+        ],
+        "description": "Trump suggests 25% tariffs on autos, pharma and semiconductors",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 417,
+            "tLy": 2142.5625,
+            "bRx": 703.171875,
+            "bRy": 2191.15625
+        },
+        "width": 286.171875,
+        "height": 48.59375,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[6]/div[1]/div[2]/div/div/div[2]/div[2]/div/div[1]/div[2]/div/a",
+        "interactivesIndex": 88
+    },
+    {
+        "centerCoords": [
+            897,
+            2028.0625
+        ],
+        "description": "description_unavailable",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 747,
+            "tLy": 1943.5625,
+            "bRx": 1047,
+            "bRy": 2112.5625
+        },
+        "width": 300,
+        "height": 169,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[6]/div[1]/div[2]/div/div/div[3]/div[1]/a",
+        "interactivesIndex": 89
+    },
+    {
+        "centerCoords": [
+            897,
+            2133.5625
+        ],
+        "description": "Economy",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 747,
+            "tLy": 2127.5625,
+            "bRx": 1047,
+            "bRy": 2139.5625
+        },
+        "width": 300,
+        "height": 12,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[6]/div[1]/div[2]/div/div/div[3]/div[2]/div/div[1]/div[1]/a",
+        "interactivesIndex": 90
+    },
+    {
+        "centerCoords": [
+            882.1796875,
+            2178.15625
+        ],
+        "description": "France’s 2026 budget to be a ‘demanding’ undertaking, French economy minister warns",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 747,
+            "tLy": 2142.5625,
+            "bRx": 1017.359375,
+            "bRy": 2213.75
+        },
+        "width": 270.359375,
+        "height": 71.1875,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[6]/div[1]/div[2]/div/div/div[3]/div[2]/div/div[1]/div[2]/div/a",
+        "interactivesIndex": 91
+    },
+    {
+        "centerCoords": [
+            237,
+            2269.34375
+        ],
+        "description": "Economy",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 87,
+            "tLy": 2263.34375,
+            "bRx": 387,
+            "bRy": 2275.34375
+        },
+        "width": 300,
+        "height": 12,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[6]/div[1]/div[2]/div/div/div[4]/div/div/div[1]/div[1]/a",
+        "interactivesIndex": 92
+    },
+    {
+        "centerCoords": [
+            212.9609375,
+            2313.34375
+        ],
+        "description": "Tariffs, immigration and DOGE: Companies confront impact of Trump policies on business",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 87,
+            "tLy": 2278.34375,
+            "bRx": 338.921875,
+            "bRy": 2348.34375
+        },
+        "width": 251.921875,
+        "height": 70,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[6]/div[1]/div[2]/div/div/div[4]/div/div/div[1]/div[2]/div/a",
+        "interactivesIndex": 93
+    },
+    {
+        "centerCoords": [
+            567,
+            2269.34375
+        ],
+        "description": "Economy",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 417,
+            "tLy": 2263.34375,
+            "bRx": 717,
+            "bRy": 2275.34375
+        },
+        "width": 300,
+        "height": 12,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[6]/div[1]/div[2]/div/div/div[5]/div/div/div[1]/div[1]/a",
+        "interactivesIndex": 94
+    },
+    {
+        "centerCoords": [
+            546.84375,
+            2313.34375
+        ],
+        "description": "Unemployment spikes in Washington, D.C., as Trump and Musk begin firing workers",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 417,
+            "tLy": 2278.34375,
+            "bRx": 676.6875,
+            "bRy": 2348.34375
+        },
+        "width": 259.6875,
+        "height": 70,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[6]/div[1]/div[2]/div/div/div[5]/div/div/div[1]/div[2]/div/a",
+        "interactivesIndex": 95
+    },
+    {
+        "centerCoords": [
+            897,
+            2269.34375
+        ],
+        "description": "Economy",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 747,
+            "tLy": 2263.34375,
+            "bRx": 1047,
+            "bRy": 2275.34375
+        },
+        "width": 300,
+        "height": 12,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[6]/div[1]/div[2]/div/div/div[6]/div/div/div[1]/div[1]/a",
+        "interactivesIndex": 96
+    },
+    {
+        "centerCoords": [
+            874.96875,
+            2313.34375
+        ],
+        "description": "Retail sales slumped 0.9% in January, down much more than expected",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 747,
+            "tLy": 2278.34375,
+            "bRx": 1002.9375,
+            "bRy": 2348.34375
+        },
+        "width": 255.9375,
+        "height": 70,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[6]/div[1]/div[2]/div/div/div[6]/div/div/div[1]/div[2]/div/a",
+        "interactivesIndex": 97
+    },
+    {
+        "centerCoords": [
+            237,
+            2505.84375
+        ],
+        "description": "description_unavailable",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 87,
+            "tLy": 2421.34375,
+            "bRx": 387,
+            "bRy": 2590.34375
+        },
+        "width": 300,
+        "height": 169,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[6]/div[1]/div[3]/div/div/div[1]/div[1]/a",
+        "interactivesIndex": 98
+    },
+    {
+        "centerCoords": [
+            237,
+            2611.34375
+        ],
+        "description": "Economy",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 87,
+            "tLy": 2605.34375,
+            "bRx": 387,
+            "bRy": 2617.34375
+        },
+        "width": 300,
+        "height": 12,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[6]/div[1]/div[3]/div/div/div[1]/div[2]/div/div[1]/div[1]/a",
+        "interactivesIndex": 99
+    },
+    {
+        "centerCoords": [
+            223.9140625,
+            2655.9375
+        ],
+        "description": "Defense stocks drop after Trump says Pentagon spending could be halved",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 87,
+            "tLy": 2620.34375,
+            "bRx": 360.828125,
+            "bRy": 2691.53125
+        },
+        "width": 273.828125,
+        "height": 71.1875,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[6]/div[1]/div[3]/div/div/div[1]/div[2]/div/div[1]/div[2]/div/a",
+        "interactivesIndex": 100
+    },
+    {
+        "centerCoords": [
+            567,
+            2505.84375
+        ],
+        "description": "description_unavailable",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 417,
+            "tLy": 2421.34375,
+            "bRx": 717,
+            "bRy": 2590.34375
+        },
+        "width": 300,
+        "height": 169,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[6]/div[1]/div[3]/div/div/div[2]/div[1]/a",
+        "interactivesIndex": 101
+    },
+    {
+        "centerCoords": [
+            567,
+            2611.34375
+        ],
+        "description": "Economy",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 417,
+            "tLy": 2605.34375,
+            "bRx": 717,
+            "bRy": 2617.34375
+        },
+        "width": 300,
+        "height": 12,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[6]/div[1]/div[3]/div/div/div[2]/div[2]/div/div[1]/div[1]/a",
+        "interactivesIndex": 102
+    },
+    {
+        "centerCoords": [
+            552.109375,
+            2655.9375
+        ],
+        "description": "Producer prices report points to softer Fed inflation measure than feared",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 417,
+            "tLy": 2620.34375,
+            "bRx": 687.21875,
+            "bRy": 2691.53125
+        },
+        "width": 270.21875,
+        "height": 71.1875,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[6]/div[1]/div[3]/div/div/div[2]/div[2]/div/div[1]/div[2]/div/a",
+        "interactivesIndex": 103
+    },
+    {
+        "centerCoords": [
+            897,
+            2505.84375
+        ],
+        "description": "description_unavailable",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 747,
+            "tLy": 2421.34375,
+            "bRx": 1047,
+            "bRy": 2590.34375
+        },
+        "width": 300,
+        "height": 169,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[6]/div[1]/div[3]/div/div/div[3]/div[1]/a",
+        "interactivesIndex": 104
+    },
+    {
+        "centerCoords": [
+            897,
+            2611.34375
+        ],
+        "description": "Economy",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 747,
+            "tLy": 2605.34375,
+            "bRx": 1047,
+            "bRy": 2617.34375
+        },
+        "width": 300,
+        "height": 12,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[6]/div[1]/div[3]/div/div/div[3]/div[2]/div/div[1]/div[1]/a",
+        "interactivesIndex": 105
+    },
+    {
+        "centerCoords": [
+            895.53125,
+            2655.9375
+        ],
+        "description": "Ray Dalio to U.S. government: Cut debt now or face an ‘economic heart attack’",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 747,
+            "tLy": 2620.34375,
+            "bRx": 1044.0625,
+            "bRy": 2691.53125
+        },
+        "width": 297.0625,
+        "height": 71.1875,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[6]/div[1]/div[3]/div/div/div[3]/div[2]/div/div[1]/div[2]/div/a",
+        "interactivesIndex": 106
+    },
+    {
+        "centerCoords": [
+            237,
+            2747.125
+        ],
+        "description": "Economy",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 87,
+            "tLy": 2741.125,
+            "bRx": 387,
+            "bRy": 2753.125
+        },
+        "width": 300,
+        "height": 12,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[6]/div[1]/div[3]/div/div/div[4]/div/div/div[1]/div[1]/a",
+        "interactivesIndex": 107
+    },
+    {
+        "centerCoords": [
+            235.484375,
+            2791.125
+        ],
+        "description": "Mexico and Canada tariffs could add $6,000 to the cost of a car, by one estimate",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 87,
+            "tLy": 2756.125,
+            "bRx": 383.96875,
+            "bRy": 2826.125
+        },
+        "width": 296.96875,
+        "height": 70,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[6]/div[1]/div[3]/div/div/div[4]/div/div/div[1]/div[2]/div/a",
+        "interactivesIndex": 108
+    },
+    {
+        "centerCoords": [
+            567,
+            2747.125
+        ],
+        "description": "Economy",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 417,
+            "tLy": 2741.125,
+            "bRx": 717,
+            "bRy": 2753.125
+        },
+        "width": 300,
+        "height": 12,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[6]/div[1]/div[3]/div/div/div[5]/div/div/div[1]/div[1]/a",
+        "interactivesIndex": 109
+    },
+    {
+        "centerCoords": [
+            553.2421875,
+            2769.125
+        ],
+        "description": "Hopes for more Fed rate cuts dim",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 417,
+            "tLy": 2756.125,
+            "bRx": 689.484375,
+            "bRy": 2782.125
+        },
+        "width": 272.484375,
+        "height": 26,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[6]/div[1]/div[3]/div/div/div[5]/div/div/div[1]/div[2]/div/a",
+        "interactivesIndex": 110
+    },
+    {
+        "centerCoords": [
+            897,
+            2747.125
+        ],
+        "description": "Economy",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 747,
+            "tLy": 2741.125,
+            "bRx": 1047,
+            "bRy": 2753.125
+        },
+        "width": 300,
+        "height": 12,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[6]/div[1]/div[3]/div/div/div[6]/div/div/div[1]/div[1]/a",
+        "interactivesIndex": 111
+    },
+    {
+        "centerCoords": [
+            881.375,
+            2791.125
+        ],
+        "description": "Consumer prices rise 0.5% in January, higher than expected as annual rate rises to 3%",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 747,
+            "tLy": 2756.125,
+            "bRx": 1015.75,
+            "bRy": 2826.125
+        },
+        "width": 268.75,
+        "height": 70,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[6]/div[1]/div[3]/div/div/div[6]/div/div/div[1]/div[2]/div/a",
+        "interactivesIndex": 112
+    },
+    {
+        "centerCoords": [
+            237,
+            2983.625
+        ],
+        "description": "description_unavailable",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 87,
+            "tLy": 2899.125,
+            "bRx": 387,
+            "bRy": 3068.125
+        },
+        "width": 300,
+        "height": 169,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[6]/div[1]/div[4]/div/div/div[1]/div[1]/a",
+        "interactivesIndex": 113
+    },
+    {
+        "centerCoords": [
+            237,
+            3089.125
+        ],
+        "description": "Economy",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 87,
+            "tLy": 3083.125,
+            "bRx": 387,
+            "bRy": 3095.125
+        },
+        "width": 300,
+        "height": 12,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[6]/div[1]/div[4]/div/div/div[1]/div[2]/div/div[1]/div[1]/a",
+        "interactivesIndex": 114
+    },
+    {
+        "centerCoords": [
+            228.390625,
+            3133.71875
+        ],
+        "description": "Consumer price report Wednesday expected to show inflation isn’t going away",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 87,
+            "tLy": 3098.125,
+            "bRx": 369.78125,
+            "bRy": 3169.3125
+        },
+        "width": 282.78125,
+        "height": 71.1875,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[6]/div[1]/div[4]/div/div/div[1]/div[2]/div/div[1]/div[2]/div/a",
+        "interactivesIndex": 115
+    },
+    {
+        "centerCoords": [
+            567,
+            2983.625
+        ],
+        "description": "description_unavailable",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 417,
+            "tLy": 2899.125,
+            "bRx": 717,
+            "bRy": 3068.125
+        },
+        "width": 300,
+        "height": 169,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[6]/div[1]/div[4]/div/div/div[2]/div[1]/a",
+        "interactivesIndex": 116
+    },
+    {
+        "centerCoords": [
+            567,
+            3089.125
+        ],
+        "description": "Economy",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 417,
+            "tLy": 3083.125,
+            "bRx": 717,
+            "bRy": 3095.125
+        },
+        "width": 300,
+        "height": 12,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[6]/div[1]/div[4]/div/div/div[2]/div[2]/div/div[1]/div[1]/a",
+        "interactivesIndex": 117
+    },
+    {
+        "centerCoords": [
+            556.859375,
+            3133.71875
+        ],
+        "description": "Trump’s steel tariffs could trigger broader trade war as EU threatens ‘proportionate countermeasures’",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 417,
+            "tLy": 3098.125,
+            "bRx": 696.71875,
+            "bRy": 3169.3125
+        },
+        "width": 279.71875,
+        "height": 71.1875,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[6]/div[1]/div[4]/div/div/div[2]/div[2]/div/div[1]/div[2]/div/a",
+        "interactivesIndex": 118
+    },
+    {
+        "centerCoords": [
+            897,
+            2983.625
+        ],
+        "description": "description_unavailable",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 747,
+            "tLy": 2899.125,
+            "bRx": 1047,
+            "bRy": 3068.125
+        },
+        "width": 300,
+        "height": 169,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[6]/div[1]/div[4]/div/div/div[3]/div[1]/a",
+        "interactivesIndex": 119
+    },
+    {
+        "centerCoords": [
+            897,
+            3089.125
+        ],
+        "description": "Economy",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 747,
+            "tLy": 3083.125,
+            "bRx": 1047,
+            "bRy": 3095.125
+        },
+        "width": 300,
+        "height": 12,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[6]/div[1]/div[4]/div/div/div[3]/div[2]/div/div[1]/div[1]/a",
+        "interactivesIndex": 120
+    },
+    {
+        "centerCoords": [
+            896.2890625,
+            3133.71875
+        ],
+        "description": "Asian economies scramble to appease Trump as the U.S. president ratchets up tariff threats",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 747,
+            "tLy": 3098.125,
+            "bRx": 1045.578125,
+            "bRy": 3169.3125
+        },
+        "width": 298.578125,
+        "height": 71.1875,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[6]/div[1]/div[4]/div/div/div[3]/div[2]/div/div[1]/div[2]/div/a",
+        "interactivesIndex": 121
+    },
+    {
+        "centerCoords": [
+            237,
+            3224.90625
+        ],
+        "description": "Economy",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 87,
+            "tLy": 3218.90625,
+            "bRx": 387,
+            "bRy": 3230.90625
+        },
+        "width": 300,
+        "height": 12,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[6]/div[1]/div[4]/div/div/div[4]/div/div/div[1]/div[1]/a",
+        "interactivesIndex": 122
+    },
+    {
+        "centerCoords": [
+            227.1875,
+            3268.90625
+        ],
+        "description": "Unemployment spiked for Black men in January as more joined the labor force",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 87,
+            "tLy": 3233.90625,
+            "bRx": 367.375,
+            "bRy": 3303.90625
+        },
+        "width": 280.375,
+        "height": 70,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[6]/div[1]/div[4]/div/div/div[4]/div/div/div[1]/div[2]/div/a",
+        "interactivesIndex": 123
+    },
+    {
+        "centerCoords": [
+            567,
+            3224.90625
+        ],
+        "description": "Economy",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 417,
+            "tLy": 3218.90625,
+            "bRx": 717,
+            "bRy": 3230.90625
+        },
+        "width": 300,
+        "height": 12,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[6]/div[1]/div[4]/div/div/div[5]/div/div/div[1]/div[1]/a",
+        "interactivesIndex": 124
+    },
+    {
+        "centerCoords": [
+            550.65625,
+            3268.90625
+        ],
+        "description": "Consumer inflation fears spike in February as tariff worries hit sentiment",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 417,
+            "tLy": 3233.90625,
+            "bRx": 684.3125,
+            "bRy": 3303.90625
+        },
+        "width": 267.3125,
+        "height": 70,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[6]/div[1]/div[4]/div/div/div[5]/div/div/div[1]/div[2]/div/a",
+        "interactivesIndex": 125
+    },
+    {
+        "centerCoords": [
+            897,
+            3224.90625
+        ],
+        "description": "Economy",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 747,
+            "tLy": 3218.90625,
+            "bRx": 1047,
+            "bRy": 3230.90625
+        },
+        "width": 300,
+        "height": 12,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[6]/div[1]/div[4]/div/div/div[6]/div/div/div[1]/div[1]/a",
+        "interactivesIndex": 126
+    },
+    {
+        "centerCoords": [
+            891.5859375,
+            3257.90625
+        ],
+        "description": "Minneapolis Fed’s Kashkari expects lower interest rates later this year",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 747,
+            "tLy": 3233.90625,
+            "bRx": 1036.171875,
+            "bRy": 3281.90625
+        },
+        "width": 289.171875,
+        "height": 48,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[6]/div[1]/div[4]/div/div/div[6]/div/div/div[1]/div[2]/div/a",
+        "interactivesIndex": 127
+    },
+    {
+        "centerCoords": [
+            566.9921875,
+            3396.90625
+        ],
+        "description": "Load More",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 481.390625,
+            "tLy": 3376.90625,
+            "bRx": 652.59375,
+            "bRy": 3416.90625
+        },
+        "width": 171.203125,
+        "height": 40,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[6]/div[1]/div[5]/a",
+        "interactivesIndex": 128
+    },
+    {
+        "centerCoords": [
+            152,
+            3521.984375
+        ],
+        "description": "alt=\"CNBC logo\"",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 87,
+            "tLy": 3510.90625,
+            "bRx": 217,
+            "bRy": 3533.0625
+        },
+        "width": 130,
+        "height": 22.15625,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/footer/div/div[1]/a",
+        "interactivesIndex": 129
+    },
+    {
+        "centerCoords": [
+            1100.984375,
+            3523.984375
+        ],
+        "description": "aria-label=\"facebook\"",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 1089.984375,
+            "tLy": 3512.984375,
+            "bRx": 1111.984375,
+            "bRy": 3534.984375
+        },
+        "width": 22,
+        "height": 22,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/footer/div/ul[1]/li[1]/a",
+        "interactivesIndex": 130
+    },
+    {
+        "centerCoords": [
+            1142.984375,
+            3523.984375
+        ],
+        "description": "aria-label=\"twitter\"",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 1131.984375,
+            "tLy": 3512.984375,
+            "bRx": 1153.984375,
+            "bRy": 3534.984375
+        },
+        "width": 22,
+        "height": 22,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/footer/div/ul[1]/li[2]/a",
+        "interactivesIndex": 131
+    },
+    {
+        "centerCoords": [
+            1184.984375,
+            3523.984375
+        ],
+        "description": "aria-label=\"linkedin\"",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 1173.984375,
+            "tLy": 3512.984375,
+            "bRx": 1195.984375,
+            "bRy": 3534.984375
+        },
+        "width": 22,
+        "height": 22,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/footer/div/ul[1]/li[3]/a",
+        "interactivesIndex": 132
+    },
+    {
+        "centerCoords": [
+            1226.984375,
+            3523.984375
+        ],
+        "description": "aria-label=\"instagram\"",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 1215.984375,
+            "tLy": 3512.984375,
+            "bRx": 1237.984375,
+            "bRy": 3534.984375
+        },
+        "width": 22,
+        "height": 22,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/footer/div/ul[1]/li[4]/a",
+        "interactivesIndex": 133
+    },
+    {
+        "centerCoords": [
+            1268.984375,
+            3523.984375
+        ],
+        "description": "aria-label=\"youtube\"",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 1257.984375,
+            "tLy": 3512.984375,
+            "bRx": 1279.984375,
+            "bRy": 3534.984375
+        },
+        "width": 22,
+        "height": 22,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/footer/div/ul[1]/li[5]/a",
+        "interactivesIndex": 134
+    },
+    {
+        "centerCoords": [
+            1312.484375,
+            3523.984375
+        ],
+        "description": "aria-label=\"apple_news\"",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 1299.984375,
+            "tLy": 3511.484375,
+            "bRx": 1324.984375,
+            "bRy": 3536.484375
+        },
+        "width": 25,
+        "height": 25,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/footer/div/ul[1]/li[6]/a",
+        "interactivesIndex": 135
+    },
+    {
+        "centerCoords": [
+            1355.984375,
+            3523.984375
+        ],
+        "description": "aria-label=\"rss\"",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 1344.984375,
+            "tLy": 3512.984375,
+            "bRx": 1366.984375,
+            "bRy": 3534.984375
+        },
+        "width": 22,
+        "height": 22,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/footer/div/ul[1]/li[7]/a",
+        "interactivesIndex": 136
+    },
+    {
+        "centerCoords": [
+            162.796875,
+            3583.0625
+        ],
+        "description": "Subscribe to CNBC PRO",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 87,
+            "tLy": 3575.0625,
+            "bRx": 238.59375,
+            "bRy": 3591.0625
+        },
+        "width": 151.59375,
+        "height": 16,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/footer/div/ul[2]/li[1]/a",
+        "interactivesIndex": 137
+    },
+    {
+        "centerCoords": [
+            389.21875,
+            3583.0625
+        ],
+        "description": "Subscribe to Investing Club",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 303.609375,
+            "tLy": 3575.0625,
+            "bRx": 474.828125,
+            "bRy": 3591.0625
+        },
+        "width": 171.21875,
+        "height": 16,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/footer/div/ul[2]/li[2]/a",
+        "interactivesIndex": 138
+    },
+    {
+        "centerCoords": [
+            583.7265625,
+            3583.0625
+        ],
+        "description": "Licensing & Reprints",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 520.21875,
+            "tLy": 3575.0625,
+            "bRx": 647.234375,
+            "bRy": 3591.0625
+        },
+        "width": 127.015625,
+        "height": 16,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/footer/div/ul[2]/li[3]/a",
+        "interactivesIndex": 139
+    },
+    {
+        "centerCoords": [
+            134.78125,
+            3619.0625
+        ],
+        "description": "CNBC Councils",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 87,
+            "tLy": 3611.0625,
+            "bRx": 182.5625,
+            "bRy": 3627.0625
+        },
+        "width": 95.5625,
+        "height": 16,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/footer/div/ul[2]/li[4]/a",
+        "interactivesIndex": 140
+    },
+    {
+        "centerCoords": [
+            378.4140625,
+            3619.0625
+        ],
+        "description": "Select Personal Finance",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 303.609375,
+            "tLy": 3611.0625,
+            "bRx": 453.21875,
+            "bRy": 3627.0625
+        },
+        "width": 149.609375,
+        "height": 16,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/footer/div/ul[2]/li[5]/a",
+        "interactivesIndex": 141
+    },
+    {
+        "centerCoords": [
+            577.3515625,
+            3619.0625
+        ],
+        "description": "CNBC on Peacock",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 520.21875,
+            "tLy": 3611.0625,
+            "bRx": 634.484375,
+            "bRy": 3627.0625
+        },
+        "width": 114.265625,
+        "height": 16,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/footer/div/ul[2]/li[6]/a",
+        "interactivesIndex": 142
+    },
+    {
+        "centerCoords": [
+            152.0625,
+            3655.0625
+        ],
+        "description": "Join the CNBC Panel",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 87,
+            "tLy": 3647.0625,
+            "bRx": 217.125,
+            "bRy": 3663.0625
+        },
+        "width": 130.125,
+        "height": 16,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/footer/div/ul[2]/li[7]/a",
+        "interactivesIndex": 143
+    },
+    {
+        "centerCoords": [
+            367.65625,
+            3655.0625
+        ],
+        "description": "Supply Chain Values",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 303.609375,
+            "tLy": 3647.0625,
+            "bRx": 431.703125,
+            "bRy": 3663.0625
+        },
+        "width": 128.09375,
+        "height": 16,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/footer/div/ul[2]/li[8]/a",
+        "interactivesIndex": 144
+    },
+    {
+        "centerCoords": [
+            571.328125,
+            3655.0625
+        ],
+        "description": "Select Shopping",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 520.21875,
+            "tLy": 3647.0625,
+            "bRx": 622.4375,
+            "bRy": 3663.0625
+        },
+        "width": 102.21875,
+        "height": 16,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/footer/div/ul[2]/li[9]/a",
+        "interactivesIndex": 145
+    },
+    {
+        "centerCoords": [
+            144.7109375,
+            3691.0625
+        ],
+        "description": "Closed Captioning",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 87,
+            "tLy": 3683.0625,
+            "bRx": 202.421875,
+            "bRy": 3699.0625
+        },
+        "width": 115.421875,
+        "height": 16,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/footer/div/ul[2]/li[10]/a",
+        "interactivesIndex": 146
+    },
+    {
+        "centerCoords": [
+            353.2109375,
+            3691.0625
+        ],
+        "description": "Digital Products",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 303.609375,
+            "tLy": 3683.0625,
+            "bRx": 402.8125,
+            "bRy": 3699.0625
+        },
+        "width": 99.203125,
+        "height": 16,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/footer/div/ul[2]/li[11]/a",
+        "interactivesIndex": 147
+    },
+    {
+        "centerCoords": [
+            567.4453125,
+            3691.0625
+        ],
+        "description": "News Releases",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 520.21875,
+            "tLy": 3683.0625,
+            "bRx": 614.671875,
+            "bRy": 3699.0625
+        },
+        "width": 94.453125,
+        "height": 16,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/footer/div/ul[2]/li[12]/a",
+        "interactivesIndex": 148
+    },
+    {
+        "centerCoords": [
+            121.625,
+            3727.0625
+        ],
+        "description": "Internships",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 87,
+            "tLy": 3719.0625,
+            "bRx": 156.25,
+            "bRy": 3735.0625
+        },
+        "width": 69.25,
+        "height": 16,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/footer/div/ul[2]/li[13]/a",
+        "interactivesIndex": 149
+    },
+    {
+        "centerCoords": [
+            339.8125,
+            3727.0625
+        ],
+        "description": "Corrections",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 303.609375,
+            "tLy": 3719.0625,
+            "bRx": 376.015625,
+            "bRy": 3735.0625
+        },
+        "width": 72.40625,
+        "height": 16,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/footer/div/ul[2]/li[14]/a",
+        "interactivesIndex": 150
+    },
+    {
+        "centerCoords": [
+            560.1171875,
+            3727.0625
+        ],
+        "description": "About CNBC",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 520.21875,
+            "tLy": 3719.0625,
+            "bRx": 600.015625,
+            "bRy": 3735.0625
+        },
+        "width": 79.796875,
+        "height": 16,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/footer/div/ul[2]/li[15]/a",
+        "interactivesIndex": 151
+    },
+    {
+        "centerCoords": [
+            122.6875,
+            3763.0625
+        ],
+        "description": "Ad Choices",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 87,
+            "tLy": 3755.0625,
+            "bRx": 158.375,
+            "bRy": 3771.0625
+        },
+        "width": 71.375,
+        "height": 16,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/footer/div/ul[2]/li[16]/a",
+        "interactivesIndex": 152
+    },
+    {
+        "centerCoords": [
+            331.03125,
+            3763.0625
+        ],
+        "description": "Site Map",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 303.609375,
+            "tLy": 3755.0625,
+            "bRx": 358.453125,
+            "bRy": 3771.0625
+        },
+        "width": 54.84375,
+        "height": 16,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/footer/div/ul[2]/li[17]/a",
+        "interactivesIndex": 153
+    },
+    {
+        "centerCoords": [
+            548.5078125,
+            3763.0625
+        ],
+        "description": "Podcasts",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 520.21875,
+            "tLy": 3755.0625,
+            "bRx": 576.796875,
+            "bRy": 3771.0625
+        },
+        "width": 56.578125,
+        "height": 16,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/footer/div/ul[2]/li[18]/a",
+        "interactivesIndex": 154
+    },
+    {
+        "centerCoords": [
+            111.4765625,
+            3799.0625
+        ],
+        "description": "Careers",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 87,
+            "tLy": 3791.0625,
+            "bRx": 135.953125,
+            "bRy": 3807.0625
+        },
+        "width": 48.953125,
+        "height": 16,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/footer/div/ul[2]/li[19]/a",
+        "interactivesIndex": 155
+    },
+    {
+        "centerCoords": [
+            318.3125,
+            3799.0625
+        ],
+        "description": "Help",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 303.609375,
+            "tLy": 3791.0625,
+            "bRx": 333.015625,
+            "bRy": 3807.0625
+        },
+        "width": 29.40625,
+        "height": 16,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/footer/div/ul[2]/li[20]/a",
+        "interactivesIndex": 156
+    },
+    {
+        "centerCoords": [
+            544.6640625,
+            3799.0625
+        ],
+        "description": "Contact",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 520.21875,
+            "tLy": 3791.0625,
+            "bRx": 569.109375,
+            "bRy": 3807.0625
+        },
+        "width": 48.890625,
+        "height": 16,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/footer/div/ul[2]/li[21]/a",
+        "interactivesIndex": 157
+    },
+    {
+        "centerCoords": [
+            807.171875,
+            3687.8125
+        ],
+        "description": "Get In Touch",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 730.375,
+            "tLy": 3667.8125,
+            "bRx": 883.96875,
+            "bRy": 3707.8125
+        },
+        "width": 153.59375,
+        "height": 40,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/footer/div/ul[3]/li[1]/a",
+        "interactivesIndex": 158
+    },
+    {
+        "centerCoords": [
+            1163.1953125,
+            3687.8125
+        ],
+        "description": "Sign Up Now",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 1088.6875,
+            "tLy": 3667.8125,
+            "bRx": 1237.703125,
+            "bRy": 3707.8125
+        },
+        "width": 149.015625,
+        "height": 40,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/footer/div/ul[3]/li[2]/a",
+        "interactivesIndex": 159
+    },
+    {
+        "centerCoords": [
+            828.9765625,
+            3799.8125
+        ],
+        "description": "Please Contact Us",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 730.375,
+            "tLy": 3779.8125,
+            "bRx": 927.578125,
+            "bRy": 3819.8125
+        },
+        "width": 197.203125,
+        "height": 40,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/footer/div/ul[3]/li[3]/a",
+        "interactivesIndex": 160
+    },
+    {
+        "centerCoords": [
+            129.9609375,
+            3867.8125
+        ],
+        "description": "Privacy Policy",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 87,
+            "tLy": 3859.8125,
+            "bRx": 172.921875,
+            "bRy": 3875.8125
+        },
+        "width": 85.921875,
+        "height": 16,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/footer/div/ul[4]/li[1]/a",
+        "interactivesIndex": 161
+    },
+    {
+        "centerCoords": [
+            250.140625,
+            3867.8125
+        ],
+        "description": "Aviso de Cookies",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 196.140625,
+            "tLy": 3859.8125,
+            "bRx": 304.140625,
+            "bRy": 3875.8125
+        },
+        "width": 108,
+        "height": 16,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/footer/div/ul[4]/li[2]/a",
+        "interactivesIndex": 162
+    },
+    {
+        "centerCoords": [
+            358.9453125,
+            3867.8125
+        ],
+        "description": "CA Notice",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 327.359375,
+            "tLy": 3859.8125,
+            "bRx": 390.53125,
+            "bRy": 3875.8125
+        },
+        "width": 63.171875,
+        "height": 16,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/footer/div/ul[4]/li[3]/a",
+        "interactivesIndex": 163
+    },
+    {
+        "centerCoords": [
+            465.3203125,
+            3867.8125
+        ],
+        "description": "Terms of Service",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 413.75,
+            "tLy": 3859.8125,
+            "bRx": 516.890625,
+            "bRy": 3875.8125
+        },
+        "width": 103.140625,
+        "height": 16,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/footer/div/ul[4]/li[4]/a",
+        "interactivesIndex": 164
+    },
+    {
+        "centerCoords": [
+            348.8203125,
+            3906.3125
+        ],
+        "description": "A Division of NBCUniversal",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 283.203125,
+            "tLy": 3900.8125,
+            "bRx": 414.4375,
+            "bRy": 3911.8125
+        },
+        "width": 131.234375,
+        "height": 11,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/footer/div/p[1]/a",
+        "interactivesIndex": 165
+    },
+    {
+        "centerCoords": [
+            731.9921875,
+            3955.8125
+        ],
+        "description": "Market Data Terms of Use and Disclaimers",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 87,
+            "tLy": 3947.8125,
+            "bRx": 1376.984375,
+            "bRy": 3963.8125
+        },
+        "width": 1289.984375,
+        "height": 16,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/footer/div/a",
+        "interactivesIndex": 166
+    },
+    {
+        "centerCoords": [
+            225.765625,
+            3982.6953125
+        ],
+        "description": "parent_node: [<Data also provided by>]",
+        "tagHead": "a",
+        "boundingBox": {
+            "tLx": 193.265625,
+            "tLy": 3971.8125,
+            "bRx": 258.265625,
+            "bRy": 3993.578125
+        },
+        "width": 65,
+        "height": 21.765625,
+        "tagName": "a",
+        "xpath": "/html/body/div[3]/div/div[1]/footer/div/p[3]/a",
+        "interactivesIndex": 167
+    },
+    {
+        "centerCoords": [
+            128.09375,
+            20
+        ],
+        "description": "BREAKING NEWS",
+        "tagHead": "button",
+        "boundingBox": {
+            "tLx": 87,
+            "tLy": 0,
+            "bRx": 169.1875,
+            "bRy": 40
+        },
+        "width": 82.1875,
+        "height": 40,
+        "tagName": "button",
+        "xpath": "/html/body/div[3]/div/div[1]/header/div[1]/div/div/button[1]",
+        "interactivesIndex": 168
+    },
+    {
+        "centerCoords": [
+            1365.1875,
+            20
+        ],
+        "description": "parent_node: [<BREAKING>]",
+        "tagHead": "button",
+        "boundingBox": {
+            "tLx": 1357.1875,
+            "tLy": 0,
+            "bRx": 1373.1875,
+            "bRy": 40
+        },
+        "width": 16,
+        "height": 40,
+        "tagName": "button",
+        "xpath": "/html/body/div[3]/div/div[1]/header/div[1]/div/div/button[2]",
+        "interactivesIndex": 169
+    },
+    {
+        "centerCoords": [
+            103,
+            64
+        ],
+        "description": "parent_node: [<MARKETS>] aria-label=\"Open Navigation Menu\"",
+        "tagHead": "button",
+        "boundingBox": {
+            "tLx": 95,
+            "tLy": 52.5,
+            "bRx": 111,
+            "bRy": 75.5
+        },
+        "width": 16,
+        "height": 23,
+        "tagName": "button",
+        "xpath": "/html/body/div[3]/div/div[1]/header/div[3]/div/div/div[2]/div[1]/button",
+        "interactivesIndex": 170
+    },
+    {
+        "centerCoords": [
+            1382.5,
+            63
+        ],
+        "description": "aria-label=\"Search\"",
+        "tagHead": "button",
+        "boundingBox": {
+            "tLx": 1360,
+            "tLy": 50,
+            "bRx": 1405,
+            "bRy": 76
+        },
+        "width": 45,
+        "height": 26,
+        "tagName": "button",
+        "xpath": "/html/body/div[3]/div/div[1]/header/div[3]/div/div/div[3]/span[1]/button",
+        "interactivesIndex": 171
+    },
+    {
+        "centerCoords": [
+            732,
+            -514
+        ],
+        "description": "aria-label=\"Advertisement\" name=\"google_ads_iframe_/2620/nbcu.cnbc/markets/economy_0\" title=\"3rd party ad content\"",
+        "tagHead": "iframe",
+        "boundingBox": {
+            "tLx": 247,
+            "tLy": -639,
+            "bRx": 1217,
+            "bRy": -389
+        },
+        "width": 970,
+        "height": 250,
+        "tagName": "iframe",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[1]/div/div/div/div[1]/div/iframe",
+        "interactivesIndex": 172
+    },
+    {
+        "centerCoords": [
+            1227,
+            1677.78125
+        ],
+        "description": "aria-label=\"Advertisement\" name=\"google_ads_iframe_/2620/nbcu.cnbc/markets/economy_13\" title=\"3rd party ad content\"",
+        "tagHead": "iframe",
+        "boundingBox": {
+            "tLx": 1077,
+            "tLy": 1377.78125,
+            "bRx": 1377,
+            "bRy": 1977.78125
+        },
+        "width": 300,
+        "height": 600,
+        "tagName": "iframe",
+        "xpath": "/html/body/div[3]/div/div[1]/div[3]/div/div/div/div[6]/div[2]/div/div/div/div/div/div/iframe",
+        "interactivesIndex": 173
+    }
+]
