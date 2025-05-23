@@ -1,0 +1,5 @@
+# model_name_or_path: /fs/ess/PAS1576/byzheng/projects/train_monitor/LLaMA-Factory/output/qwen2_vl_lora_sft_monitor-sft-trial-train-correct
+model_name_or_path: Qwen/Qwen2-VL-7B-Instruct
+template: qwen2_vl
+infer_backend: vllm  # choices: [huggingface, vllm]
+trust_remote_code: true

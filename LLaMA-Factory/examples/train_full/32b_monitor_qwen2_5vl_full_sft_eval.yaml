@@ -1,0 +1,66 @@
+### model
+model_name_or_path: Qwen/Qwen2.5-VL-32B-Instruct
+image_max_pixels: 262144
+video_max_pixels: 16384
+trust_remote_code: true
+
+### method
+stage: sft
+do_train: true
+finetuning_type: full
+freeze_vision_tower: true  # choices: [true, false]
+freeze_multi_modal_projector: true  # choices: [true, false]
+train_mm_proj_only: false  # choices: [true, false]
+deepspeed: examples/deepspeed/ds_z3_config.json  # 保持 ZeRO-3 配置
+
+# ### method
+# stage: sft
+# do_train: true
+# finetuning_type: lora
+# lora_rank: 4
+# lora_target: all
+
+
+### dataset
+dataset: monitor_factory_train
+template: qwen2_vl
+cutoff_len: 4096
+max_samples: 10000
+overwrite_cache: true
+preprocessing_num_workers: 4
+dataloader_num_workers: 4
+
+### output
+output_dir: saves/monitor-sft-multi-splits/qwen2_vl-32b-full-0-optimize-memory
+logging_steps: 10
+save_steps: 100
+plot_loss: true
+overwrite_output_dir: true
+save_only_model: false
+report_to: wandb
+run_name: qwen2_5vl_32b_full_sft_multi_splits_optimize_memory
+
+### train
+per_device_train_batch_size: 1
+gradient_accumulation_steps: 4  # 增加到32
+learning_rate: 5.0e-6
+num_train_epochs: 40.0
+lr_scheduler_type: cosine
+warmup_ratio: 0.1
+bf16: true  # 使用bf16
+fp16: false  # 关闭fp16
+fp16_opt_level: O1
+ddp_timeout: 180000000
+resume_from_checkpoint: null
+gradient_checkpointing: true
+max_grad_norm: 0.5
+adam_beta1: 0.9
+adam_beta2: 0.999
+adam_epsilon: 1.0e-8
+weight_decay: 0.01
+
+## eval
+val_size: 0.1
+per_device_eval_batch_size: 1
+eval_strategy: steps
+eval_steps: 50

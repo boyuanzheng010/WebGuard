@@ -1,0 +1,10 @@
+### model
+model_name_or_path: /fs/ess/PAS1576/byzheng/projects/train_monitor/LLaMA-Factory/saves/monitor-sft-a11y-splits/qwen2_5-3b-full-0/checkpoint-200
+template: qwen
+trust_remote_code: true
+
+### export
+export_dir: /fs/ess/PAS1576/byzheng/projects/train_monitor/LLaMA-Factory/output/monitor-sft-a11y-splits/qwen2_5-3b-full-0/checkpoint-200
+export_size: 5
+export_device: cpu
+export_legacy_format: false
