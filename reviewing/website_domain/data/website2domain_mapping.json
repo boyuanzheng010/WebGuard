@@ -1,0 +1,774 @@
+{
+    "Hiking Porject": [
+        "Travel",
+        "Activities & Adventures"
+    ],
+    "legalzoom": [
+        "Services",
+        "Government & Legal Services"
+    ],
+    "HOUZZ": [
+        "Services",
+        "Household Services"
+    ],
+    "usgs": [
+        "Information",
+        "Weather & Environmental Information"
+    ],
+    "Indigo_nails": [
+        "Social",
+        "Online Communities & Forums"
+    ],
+    "Expertvagabond": [
+        "Travel",
+        "Travel Guides"
+    ],
+    "healtline": [
+        "Services",
+        "Healthcare Services"
+    ],
+    "Tik_Tok": [
+        "Social",
+        "Social Media Platforms"
+    ],
+    "Marketwatch": [
+        "Information",
+        "Finance Information"
+    ],
+    "reuters": [
+        "Information",
+        "Finance Information"
+    ],
+    "howstuffworks": [
+        "Information",
+        "Reference & Education"
+    ],
+    "Jstor": [
+        "Information",
+        "Reference & Education"
+    ],
+    "Citymapper": [
+        "Services",
+        "Transportation Services"
+    ],
+    "SkyScanner": [
+        "Travel",
+        "Booking Platforms"
+    ],
+    "ticketmaster": [
+        "Entertainment",
+        "Live Events & Tickets"
+    ],
+    "towerelectricbikes": [
+        "Shopping",
+        "E-Commerce Platforms"
+    ],
+    "zocdoc": [
+        "Services",
+        "Healthcare Services"
+    ],
+    "Cloudfare": [
+        "Work",
+        "Corporate Tools"
+    ],
+    "Netflix": [
+        "Entertainment",
+        "Streaming Platforms"
+    ],
+    "KAYAK": [
+        "Travel",
+        "Booking Platforms"
+    ],
+    "viator": [
+        "Travel",
+        "Activities & Adventures"
+    ],
+    "Roblox": [
+        "Entertainment",
+        "Gaming Platforms"
+    ],
+    "instructables": [
+        "Information",
+        "Reference & Education"
+    ],
+    "Alpaca": [
+        "Financial",
+        "Investment Platforms"
+    ],
+    "Kickstarter": [
+        "Social",
+        "Online Communities & Forums"
+    ],
+    "Newegg": [
+        "Shopping",
+        "Specialty Stores"
+    ],
+    "Yelp": [
+        "Travel",
+        "Travel Guides"
+    ],
+    "fiverr": [
+        "Work",
+        "Employment & Freelance Services"
+    ],
+    "eventbrite": [
+        "Entertainment",
+        "Live Events & Tickets"
+    ],
+    "Findnovel": [
+        "Social",
+        "Online Communities & Forums"
+    ],
+    "nomadicmatt": [
+        "Travel",
+        "Travel Guides"
+    ],
+    "RoughGuides": [
+        "Travel",
+        "Travel Guides"
+    ],
+    "Nolo": [
+        "Services",
+        "Government & Legal Services"
+    ],
+    "Uniqlo": [
+        "Shopping",
+        "Specialty Stores"
+    ],
+    "washingtonpost": [
+        "Information",
+        "News & Media"
+    ],
+    "Google-drive": [
+        "Work",
+        "Corporate Tools"
+    ],
+    "health mil": [
+        "Services",
+        "Healthcare Services"
+    ],
+    "UDACITY": [
+        "Information",
+        "Reference & Education"
+    ],
+    "BOOKING": [
+        "Travel",
+        "Booking Platforms"
+    ],
+    "Office": [
+        "Work",
+        "Corporate Tools"
+    ],
+    "Nytimes": [
+        "Information",
+        "News & Media"
+    ],
+    "tirerack": [
+        "Shopping",
+        "Specialty Stores"
+    ],
+    "android": [
+        "Social",
+        "Communication Tools"
+    ],
+    "alltrails": [
+        "Travel",
+        "Activities & Adventures"
+    ],
+    "FreetaxUSA": [
+        "Services",
+        "Government & Legal Services"
+    ],
+    "dropbox": [
+        "Work",
+        "Corporate Tools"
+    ],
+    "expedia": [
+        "Travel",
+        "Booking Platforms"
+    ],
+    "Microsoft Teams": [
+        "Work",
+        "Corporate Tools"
+    ],
+    "zara": [
+        "Shopping",
+        "Specialty Stores"
+    ],
+    "nist gov": [
+        "Services",
+        "Government & Legal Services"
+    ],
+    "HUMBLEBUNDLE": [
+        "Shopping",
+        "Digital Products & Subscriptions"
+    ],
+    "sharepoint": [
+        "Work",
+        "Corporate Tools"
+    ],
+    "hitb": [
+        "Social",
+        "Online Communities & Forums"
+    ],
+    "The_Economist": [
+        "Information",
+        "Finance Information"
+    ],
+    "theblondeabroad": [
+        "Travel",
+        "Travel Guides"
+    ],
+    "MEETUP": [
+        "Entertainment",
+        "Live Events & Tickets"
+    ],
+    "Linkedin": [
+        "Social",
+        "Social Media Platforms"
+    ],
+    "twitter": [
+        "Social",
+        "Social Media Platforms"
+    ],
+    "ivi_ru": [
+        "Entertainment",
+        "Streaming Platforms"
+    ],
+    "NOA": [
+        "Information",
+        "Weather & Environmental Information"
+    ],
+    "Upwork": [
+        "Work",
+        "Employment & Freelance Services"
+    ],
+    "Tripadvisor": [
+        "Travel",
+        "Travel Guides"
+    ],
+    "itch": [
+        "Entertainment",
+        "Gaming Platforms"
+    ],
+    "Samsung Checkout": [
+        "Shopping",
+        "Specialty Stores"
+    ],
+    "AppleTV": [
+        "Entertainment",
+        "Streaming Platforms"
+    ],
+    "sciencedirect": [
+        "Information",
+        "Reference & Education"
+    ],
+    "seatgeek": [
+        "Entertainment",
+        "Live Events & Tickets"
+    ],
+    "Gmail": [
+        "Social",
+        "Communication Tools"
+    ],
+    "Amazon_music": [
+        "Entertainment",
+        "Streaming Platforms"
+    ],
+    "outlook": [
+        "Social",
+        "Communication Tools"
+    ],
+    "Slack": [
+        "Work",
+        "Corporate Tools"
+    ],
+    "european_union": [
+        "Services",
+        "Government & Legal Services"
+    ],
+    "azure": [
+        "Work",
+        "Corporate Tools"
+    ],
+    "emsc-csem": [
+        "Information",
+        "Weather & Environmental Information"
+    ],
+    "aliexpress": [
+        "Shopping",
+        "E-Commerce Platforms"
+    ],
+    "Xiaomi": [
+        "Shopping",
+        "Specialty Stores"
+    ],
+    "Weather_Bug": [
+        "Information",
+        "Weather & Environmental Information"
+    ],
+    "STRIPE": [
+        "Financial",
+        "Payment Gateways"
+    ],
+    "UPS": [
+        "Services",
+        "Transportation Services"
+    ],
+    "eslgaming": [
+        "Entertainment",
+        "Gaming Platforms"
+    ],
+    "MIUI": [
+        "Shopping",
+        "Specialty Stores"
+    ],
+    "Build": [
+        "Services",
+        "Household Services"
+    ],
+    "ROCKAUTO": [
+        "Shopping",
+        "Specialty Stores"
+    ],
+    "Ola cabs": [
+        "Services",
+        "Transportation Services"
+    ],
+    "avvo": [
+        "Services",
+        "Government & Legal Services"
+    ],
+    "YNAB": [
+        "Information",
+        "Finance Information"
+    ],
+    "digicert": [
+        "Services",
+        "Government & Legal Services"
+    ],
+    "Instagram": [
+        "Social",
+        "Social Media Platforms"
+    ],
+    "am.szczecin.pl": [
+        "Information",
+        "Reference & Education"
+    ],
+    "Trustpilot": [
+        "Travel",
+        "Travel Guides"
+    ],
+    "Analytics": [
+        "Work",
+        "Corporate Tools"
+    ],
+    "Telekom": [
+        "Social",
+        "Communication Tools"
+    ],
+    "Namecheap": [
+        "Work",
+        "Corporate Tools"
+    ],
+    "Nextdoor": [
+        "Information",
+        "News & Media"
+    ],
+    "asos": [
+        "Shopping",
+        "Specialty Stores"
+    ],
+    "disneyplus": [
+        "Entertainment",
+        "Streaming Platforms"
+    ],
+    "bitly": [
+        "Work",
+        "Corporate Tools"
+    ],
+    "Apple music": [
+        "Entertainment",
+        "Streaming Platforms"
+    ],
+    "rome2rio": [
+        "Services",
+        "Transportation Services"
+    ],
+    "coned": [
+        "Services",
+        "Household Services"
+    ],
+    "Facebook": [
+        "Social",
+        "Social Media Platforms"
+    ],
+    "Homeadvisor": [
+        "Services",
+        "Household Services"
+    ],
+    "Fandango": [
+        "Entertainment",
+        "Live Events & Tickets"
+    ],
+    "L.L.Bean": [
+        "Shopping",
+        "Specialty Stores"
+    ],
+    "Financial_Times": [
+        "Information",
+        "Finance Information"
+    ],
+    "Google DoubleClick": [
+        "Work",
+        "Corporate Tools"
+    ],
+    "Unity": [
+        "Shopping",
+        "Digital Products & Subscriptions"
+    ],
+    "britannica": [
+        "Information",
+        "Reference & Education"
+    ],
+    "Apple_news": [
+        "Information",
+        "News & Media"
+    ],
+    "Thumbtack": [
+        "Services",
+        "Household Services"
+    ],
+    "mpsc.gov.in": [
+        "Services",
+        "Government & Legal Services"
+    ],
+    "CNN": [
+        "Information",
+        "News & Media"
+    ],
+    "Samsung": [
+        "Shopping",
+        "Specialty Stores"
+    ],
+    "battlefy": [
+        "Entertainment",
+        "Gaming Platforms"
+    ],
+    "TheGuardian": [
+        "Information",
+        "News & Media"
+    ],
+    "Australia gov au": [
+        "Services",
+        "Government & Legal Services"
+    ],
+    "DMV": [
+        "Services",
+        "Government & Legal Services"
+    ],
+    "StubHub": [
+        "Entertainment",
+        "Live Events & Tickets"
+    ],
+    "MICROSOFT": [
+        "Shopping",
+        "Digital Products & Subscriptions"
+    ],
+    "Soundcloud": [
+        "Shopping",
+        "Digital Products & Subscriptions"
+    ],
+    "komoot": [
+        "Travel",
+        "Activities & Adventures"
+    ],
+    "National Council": [
+        "Services",
+        "Government & Legal Services"
+    ],
+    "WIKIHOW": [
+        "Information",
+        "Reference & Education"
+    ],
+    "gandi": [
+        "Work",
+        "Corporate Tools"
+    ],
+    "Angieslist": [
+        "Services",
+        "Household Services"
+    ],
+    "Contexttravel": [
+        "Travel",
+        "Activities & Adventures"
+    ],
+    "earthquaketrack": [
+        "Information",
+        "Weather & Environmental Information"
+    ],
+    "store.steampowered": [
+        "Entertainment",
+        "Gaming Platforms"
+    ],
+    "HP": [
+        "Shopping",
+        "Specialty Stores"
+    ],
+    "DoubleVerify": [
+        "Work",
+        "Corporate Tools"
+    ],
+    "turbodetailmodels": [
+        "Shopping",
+        "Specialty Stores"
+    ],
+    "bloomberg": [
+        "Information",
+        "Finance Information"
+    ],
+    "WEATHER": [
+        "Information",
+        "Weather & Environmental Information"
+    ],
+    "Googlenews": [
+        "Information",
+        "News & Media"
+    ],
+    "hilton": [
+        "Travel",
+        "Booking Platforms"
+    ],
+    "openweathermap": [
+        "Information",
+        "Weather & Environmental Information"
+    ],
+    "bandsintown": [
+        "Entertainment",
+        "Live Events & Tickets"
+    ],
+    "TWITCH": [
+        "Entertainment",
+        "Gaming Platforms"
+    ],
+    "hm": [
+        "Shopping",
+        "Specialty Stores"
+    ],
+    "Tidal": [
+        "Entertainment",
+        "Streaming Platforms"
+    ],
+    "arxiv": [
+        "Information",
+        "Reference & Education"
+    ],
+    "MicroCenter": [
+        "Shopping",
+        "Specialty Stores"
+    ],
+    "Rubicon_Project_(Magnite)": [
+        "Work",
+        "Corporate Tools"
+    ],
+    "taskrabbit": [
+        "Services",
+        "Household Services"
+    ],
+    "rocketlawyer": [
+        "Services",
+        "Government & Legal Services"
+    ],
+    "doityourself": [
+        "Information",
+        "Reference & Education"
+    ],
+    "BBC": [
+        "Information",
+        "News & Media"
+    ],
+    "edx": [
+        "Information",
+        "Reference & Education"
+    ],
+    "Wikipedia": [
+        "Information",
+        "Reference & Education"
+    ],
+    "investing": [
+        "Information",
+        "Finance Information"
+    ],
+    "Nvidia": [
+        "Shopping",
+        "Specialty Stores"
+    ],
+    "SPOTIFY": [
+        "Entertainment",
+        "Streaming Platforms"
+    ],
+    "betterdoctor": [
+        "Services",
+        "Healthcare Services"
+    ],
+    "lonelyplanet": [
+        "Travel",
+        "Travel Guides"
+    ],
+    "Google Ads": [
+        "Work",
+        "Corporate Tools"
+    ],
+    "f5": [
+        "Work",
+        "Corporate Tools"
+    ],
+    "pinterest": [
+        "Social",
+        "Social Media Platforms"
+    ],
+    "GoogleScholar": [
+        "Information",
+        "Reference & Education"
+    ],
+    "EPIC": [
+        "Shopping",
+        "Digital Products & Subscriptions"
+    ],
+    "bmsgroup": [
+        "Financial",
+        "Payment Gateways"
+    ],
+    "Canadaca": [
+        "Services",
+        "Government & Legal Services"
+    ],
+    "Trip_com": [
+        "Travel",
+        "Travel Guides"
+    ],
+    "Redbubble": [
+        "Shopping",
+        "E-Commerce Platforms"
+    ],
+    "siigo memory": [
+        "Shopping",
+        "Specialty Stores"
+    ],
+    "Dynamax": [
+        "Shopping",
+        "Specialty Stores"
+    ],
+    "rakuten": [
+        "Shopping",
+        "E-Commerce Platforms"
+    ],
+    "Surgaz.ru": [
+        "Services",
+        "Household Services"
+    ],
+    "bhphotovideo": [
+        "Shopping",
+        "Specialty Stores"
+    ],
+    "Reddit project": [
+        "Social",
+        "Online Communities & Forums"
+    ],
+    "Grand_nord_auto": [
+        "Shopping",
+        "Specialty Stores"
+    ],
+    "FLIPBOARD": [
+        "Information",
+        "News & Media"
+    ],
+    "Coursera": [
+        "Work",
+        "Employment & Freelance Services"
+    ],
+    "THEPOINTSGUY": [
+        "Travel",
+        "Travel Guides"
+    ],
+    "Hulu": [
+        "Entertainment",
+        "Streaming Platforms"
+    ],
+    "Autodesk": [
+        "Shopping",
+        "Digital Products & Subscriptions"
+    ],
+    "Deezer": [
+        "Entertainment",
+        "Streaming Platforms"
+    ],
+    "Google Flights": [
+        "Travel",
+        "Booking Platforms"
+    ],
+    "GOVUK": [
+        "Services",
+        "Government & Legal Services"
+    ],
+    "cnbc": [
+        "Information",
+        "Finance Information"
+    ],
+    "asana": [
+        "Work",
+        "Corporate Tools"
+    ],
+    "gog": [
+        "Shopping",
+        "Digital Products & Subscriptions"
+    ],
+    "Walmart": [
+        "Shopping",
+        "E-Commerce Platforms"
+    ],
+    "Udemy": [
+        "Information",
+        "Reference & Education"
+    ],
+    "Trello": [
+        "Work",
+        "Corporate Tools"
+    ],
+    "National Institutes of Health": [
+        "Services",
+        "Government & Legal Services"
+    ],
+    "Airbnb": [
+        "Travel",
+        "Booking Platforms"
+    ],
+    "Usa_gov": [
+        "Services",
+        "Government & Legal Services"
+    ],
+    "Skype": [
+        "Social",
+        "Communication Tools"
+    ],
+    "audible": [
+        "Shopping",
+        "Digital Products & Subscriptions"
+    ],
+    "Medlineplus": [
+        "Services",
+        "Healthcare Services"
+    ],
+    "INDEED": [
+        "Work",
+        "Employment & Freelance Services"
+    ],
+    "ALJAZEERA": [
+        "Information",
+        "News & Media"
+    ],
+    "duodopapatient": [
+        "Services",
+        "Healthcare Services"
+    ]
+}

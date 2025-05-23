@@ -1,0 +1,259 @@
+{
+    "Travel": {
+        "Activities & Adventures": [
+            "Hiking Porject",
+            "viator",
+            "alltrails",
+            "komoot",
+            "Contexttravel"
+        ],
+        "Travel Guides": [
+            "Expertvagabond",
+            "Yelp",
+            "nomadicmatt",
+            "RoughGuides",
+            "theblondeabroad",
+            "Tripadvisor",
+            "Trustpilot",
+            "lonelyplanet",
+            "Trip_com",
+            "THEPOINTSGUY"
+        ],
+        "Booking Platforms": [
+            "SkyScanner",
+            "KAYAK",
+            "BOOKING",
+            "expedia",
+            "hilton",
+            "Google Flights",
+            "Airbnb"
+        ]
+    },
+    "Services": {
+        "Government & Legal Services": [
+            "legalzoom",
+            "Nolo",
+            "FreetaxUSA",
+            "nist gov",
+            "european_union",
+            "avvo",
+            "digicert",
+            "mpsc.gov.in",
+            "Australia gov au",
+            "DMV",
+            "National Council",
+            "rocketlawyer",
+            "Canadaca",
+            "GOVUK",
+            "National Institutes of Health",
+            "Usa_gov"
+        ],
+        "Household Services": [
+            "HOUZZ",
+            "Build",
+            "coned",
+            "Homeadvisor",
+            "Thumbtack",
+            "Angieslist",
+            "taskrabbit",
+            "Surgaz.ru"
+        ],
+        "Healthcare Services": [
+            "healtline",
+            "zocdoc",
+            "health mil",
+            "betterdoctor",
+            "Medlineplus",
+            "duodopapatient"
+        ],
+        "Transportation Services": [
+            "Citymapper",
+            "UPS",
+            "Ola cabs",
+            "rome2rio"
+        ]
+    },
+    "Information": {
+        "Weather & Environmental Information": [
+            "usgs",
+            "NOA",
+            "emsc-csem",
+            "Weather_Bug",
+            "earthquaketrack",
+            "WEATHER",
+            "openweathermap"
+        ],
+        "Finance Information": [
+            "Marketwatch",
+            "reuters",
+            "The_Economist",
+            "YNAB",
+            "Financial_Times",
+            "bloomberg",
+            "investing",
+            "cnbc"
+        ],
+        "Reference & Education": [
+            "howstuffworks",
+            "Jstor",
+            "instructables",
+            "UDACITY",
+            "sciencedirect",
+            "am.szczecin.pl",
+            "britannica",
+            "WIKIHOW",
+            "arxiv",
+            "doityourself",
+            "edx",
+            "Wikipedia",
+            "GoogleScholar",
+            "Udemy"
+        ],
+        "News & Media": [
+            "washingtonpost",
+            "Nytimes",
+            "Nextdoor",
+            "Apple_news",
+            "CNN",
+            "TheGuardian",
+            "Googlenews",
+            "BBC",
+            "FLIPBOARD",
+            "ALJAZEERA"
+        ]
+    },
+    "Social": {
+        "Online Communities & Forums": [
+            "Indigo_nails",
+            "Kickstarter",
+            "Findnovel",
+            "hitb",
+            "Reddit project"
+        ],
+        "Social Media Platforms": [
+            "Tik_Tok",
+            "Linkedin",
+            "twitter",
+            "Instagram",
+            "Facebook",
+            "pinterest"
+        ],
+        "Communication Tools": [
+            "android",
+            "Gmail",
+            "outlook",
+            "Telekom",
+            "Skype"
+        ]
+    },
+    "Entertainment": {
+        "Live Events & Tickets": [
+            "ticketmaster",
+            "eventbrite",
+            "MEETUP",
+            "seatgeek",
+            "Fandango",
+            "StubHub",
+            "bandsintown"
+        ],
+        "Streaming Platforms": [
+            "Netflix",
+            "ivi_ru",
+            "AppleTV",
+            "Amazon_music",
+            "disneyplus",
+            "Apple music",
+            "Tidal",
+            "SPOTIFY",
+            "Hulu",
+            "Deezer"
+        ],
+        "Gaming Platforms": [
+            "Roblox",
+            "itch",
+            "eslgaming",
+            "battlefy",
+            "store.steampowered",
+            "TWITCH"
+        ]
+    },
+    "Shopping": {
+        "E-Commerce Platforms": [
+            "towerelectricbikes",
+            "aliexpress",
+            "Redbubble",
+            "rakuten",
+            "Walmart"
+        ],
+        "Specialty Stores": [
+            "Newegg",
+            "Uniqlo",
+            "tirerack",
+            "zara",
+            "Samsung Checkout",
+            "Xiaomi",
+            "MIUI",
+            "ROCKAUTO",
+            "asos",
+            "L.L.Bean",
+            "Samsung",
+            "HP",
+            "turbodetailmodels",
+            "hm",
+            "MicroCenter",
+            "Nvidia",
+            "siigo memory",
+            "Dynamax",
+            "bhphotovideo",
+            "Grand_nord_auto"
+        ],
+        "Digital Products & Subscriptions": [
+            "HUMBLEBUNDLE",
+            "Unity",
+            "MICROSOFT",
+            "Soundcloud",
+            "EPIC",
+            "Autodesk",
+            "gog",
+            "audible"
+        ]
+    },
+    "Work": {
+        "Corporate Tools": [
+            "Cloudfare",
+            "Google-drive",
+            "Office",
+            "dropbox",
+            "Microsoft Teams",
+            "sharepoint",
+            "Slack",
+            "azure",
+            "Analytics",
+            "Namecheap",
+            "bitly",
+            "Google DoubleClick",
+            "gandi",
+            "DoubleVerify",
+            "Rubicon_Project_(Magnite)",
+            "Google Ads",
+            "f5",
+            "asana",
+            "Trello"
+        ],
+        "Employment & Freelance Services": [
+            "fiverr",
+            "Upwork",
+            "Coursera",
+            "INDEED"
+        ]
+    },
+    "Financial": {
+        "Investment Platforms": [
+            "Alpaca"
+        ],
+        "Payment Gateways": [
+            "STRIPE",
+            "bmsgroup"
+        ]
+    }
+}
